@@ -1,0 +1,14 @@
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\Requestor.exe.config
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\Requestor.exe
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\Requestor.pdb
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\LogPersistence.dll
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\MongoDB.dll
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\LogPersistence.pdb
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\Newtonsoft.Json.pdb
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\MongoDB.pdb
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\bin\Debug\MongoDB.xml
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\obj\Debug\Requestor.exe
+D:\C#\Andrey\LogCollector\LogCollector\Requestor\obj\Debug\Requestor.pdb

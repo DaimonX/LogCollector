@@ -1,0 +1,13 @@
+D:\Projects\LogCollector\Requestor\bin\Release\Requestor.exe.config
+D:\Projects\LogCollector\Requestor\bin\Release\Requestor.exe
+D:\Projects\LogCollector\Requestor\bin\Release\Requestor.pdb
+D:\Projects\LogCollector\Requestor\bin\Release\LogPersistence.dll
+D:\Projects\LogCollector\Requestor\bin\Release\Newtonsoft.Json.dll
+D:\Projects\LogCollector\Requestor\bin\Release\MongoDB.dll
+D:\Projects\LogCollector\Requestor\bin\Release\LogPersistence.pdb
+D:\Projects\LogCollector\Requestor\bin\Release\Newtonsoft.Json.pdb
+D:\Projects\LogCollector\Requestor\bin\Release\Newtonsoft.Json.xml
+D:\Projects\LogCollector\Requestor\bin\Release\MongoDB.xml
+D:\Projects\LogCollector\Requestor\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\LogCollector\Requestor\obj\Release\Requestor.exe
+D:\Projects\LogCollector\Requestor\obj\Release\Requestor.pdb

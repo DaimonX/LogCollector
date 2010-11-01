@@ -1,0 +1,39 @@
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\bin\Debug\LogCollector.exe
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\bin\Debug\LogCollector.pdb
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\bin\Debug\LogPersistence.dll
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\bin\Debug\MongoDB.dll
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\bin\Debug\LogPersistence.pdb
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\bin\Debug\MongoDB.xml
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\obj\Debug\LogCollector.exe
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\obj\Debug\LogCollector.pdb
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\bin\Debug\Newtonsoft.Json.pdb
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\LogCollector\LogCollector\bin\Debug\LogCollector.exe
+D:\Projects\LogCollector\LogCollector\bin\Debug\LogCollector.pdb
+D:\Projects\LogCollector\LogCollector\bin\Debug\LogPersistence.dll
+D:\Projects\LogCollector\LogCollector\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\LogCollector\LogCollector\bin\Debug\MongoDB.dll
+D:\Projects\LogCollector\LogCollector\bin\Debug\LogPersistence.pdb
+D:\Projects\LogCollector\LogCollector\bin\Debug\Newtonsoft.Json.pdb
+D:\Projects\LogCollector\LogCollector\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\LogCollector\LogCollector\bin\Debug\MongoDB.xml
+D:\Projects\LogCollector\LogCollector\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\LogCollector\LogCollector\obj\Debug\LogCollector.exe
+D:\Projects\LogCollector\LogCollector\obj\Debug\LogCollector.pdb
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\LogCollector.exe.config
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\LogCollector.exe
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\LogCollector.pdb
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\LogPersistence.dll
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\MongoDB.dll
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\LogPersistence.pdb
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\Newtonsoft.Json.pdb
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\MongoDB.pdb
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\bin\Debug\MongoDB.xml
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\obj\Debug\LogCollector.exe
+D:\C#\Andrey\LogCollector\LogCollector\LogCollector\obj\Debug\LogCollector.pdb
+D:\Projects\LogCollector\LogCollector\bin\Debug\LogCollector.exe.config

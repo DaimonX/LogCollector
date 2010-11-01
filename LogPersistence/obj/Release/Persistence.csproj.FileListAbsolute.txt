@@ -1,0 +1,10 @@
+D:\Projects\LogCollector\LogPersistence\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\LogCollector\LogPersistence\bin\Release\LogPersistence.dll
+D:\Projects\LogCollector\LogPersistence\bin\Release\LogPersistence.pdb
+D:\Projects\LogCollector\LogPersistence\bin\Release\MongoDB.dll
+D:\Projects\LogCollector\LogPersistence\bin\Release\Newtonsoft.Json.dll
+D:\Projects\LogCollector\LogPersistence\bin\Release\Newtonsoft.Json.pdb
+D:\Projects\LogCollector\LogPersistence\bin\Release\Newtonsoft.Json.xml
+D:\Projects\LogCollector\LogPersistence\bin\Release\MongoDB.xml
+D:\Projects\LogCollector\LogPersistence\obj\Release\LogPersistence.dll
+D:\Projects\LogCollector\LogPersistence\obj\Release\LogPersistence.pdb

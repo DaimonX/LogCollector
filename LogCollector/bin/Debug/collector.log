@@ -1,0 +1,519 @@
+﻿2010-09-20T17:08:46.8111250+02:00 Unspecified: [SecureServerChannelSink] Created Server Sink
+2010-09-20T17:08:47.8423750+02:00 Unspecified: RootService static constructor
+ApplicationBase = 'C:\OMS\APL\OMSService\'
+ApplicationName = 'OMSService.exe'
+ConfigurationFile = 'C:\OMS\APL\OMSService\OMSService.exe.config'
+CallingAssembly = [FullName = 'Medio.Omc.RootService, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\Medio.Omc.RootService.dll']
+EntryAssembly = [FullName = 'OMSService, Version=1.9.13.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\OMSService.exe']
+
+2010-09-20T17:08:48.1548750+02:00 Unspecified: Loading roles store from C:\OMS\APL\OMSService\Stores\RolesStore.xml
+2010-09-20T17:08:48.3267500+02:00 Unspecified: Loading users store from C:\OMS\APL\OMSService\Stores\UsersStore.xml
+2010-09-20T17:08:48.5298750+02:00 Unspecified: Loading authorization store from C:\OMS\APL\OMSService\Stores\AuthorizationStore.xml
+2010-09-20T17:08:48.7173750+02:00 Unspecified: Loading  map user store from C:\OMS\APL\OMSService\Stores\MapUsersStore.xml
+2010-09-20T17:08:49.2955000+02:00 Unspecified: Started Session Validator
+2010-09-20T17:08:49.3111250+02:00 Unspecified: ServicesController static constructor
+ApplicationBase = 'C:\OMS\APL\OMSService\'
+ApplicationName = 'OMSService.exe'
+ConfigurationFile = 'C:\OMS\APL\OMSService\OMSService.exe.config'
+CallingAssembly = [FullName = 'Telco.EnterpriseLibrary.ServiceModel, Version=2.0.3912.25166, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\Telco.EnterpriseLibrary.ServiceModel.dll']
+EntryAssembly = [FullName = 'OMSService, Version=1.9.13.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\OMSService.exe']
+
+2010-09-20T17:08:49.3111250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:50.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:50.6392500+02:00 Unspecified: CSRegistrator -> Counter set registered by CSM on path OMCs\OMC-1
+2010-09-20T17:08:50.6548750+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:51.0455000+02:00 Unspecified: Read configuration for AlarmManagerProcessor
+2010-09-20T17:08:51.6392500+02:00 Unspecified: DataCollector..ctor()
+ApplicationBase = 'C:\OMS\APL\OMSService\'
+ApplicationName = 'OMSService.exe'
+ConfigurationFile = 'C:\OMS\APL\OMSService\OMSService.exe.config'
+CallingAssembly = [FullName = 'Medio.Statistics.DataCollector, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\Medio.Statistics.DataCollector.dll']
+EntryAssembly = [FullName = 'OMSService, Version=1.9.13.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\OMSService.exe']
+
+2010-09-20T17:08:51.9830000+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:51.9986250+02:00 Unspecified: DataCollector is starting... RootFolder: C:\OMS\DATA\OMSService\FL\Storage
+2010-09-20T17:08:52.0142500+02:00 Unspecified: ReportManager..ctor(...)
+ApplicationBase = 'C:\OMS\APL\OMSService\'
+ApplicationName = 'OMSService.exe'
+ConfigurationFile = 'C:\OMS\APL\OMSService\OMSService.exe.config'
+CallingAssembly = [FullName = 'Medio.Statistics.ReportManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\Medio.Statistics.ReportManager.dll']
+EntryAssembly = [FullName = 'OMSService, Version=1.9.13.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\OMSService.exe']
+
+2010-09-20T17:08:52.0142500+02:00 Unspecified: [ReportManager] -> Run as service ...
+2010-09-20T17:08:52.0298750+02:00 Unspecified: DataCollector is starting... RootFolder: C:\OMS\DATA\OMSService\FL\Storage
+2010-09-20T17:08:52.0298750+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:52.0298750+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:52.5611250+02:00 Unspecified: [SSPI] Starting SSPI server listener...
+2010-09-20T17:08:52.5611250+02:00 Unspecified: [SSPI] Listener started.
+2010-09-20T17:08:52.5767500+02:00 Unspecified: Registred Auth Server SSPI#172.16.3.51#5998#
+2010-09-20T17:08:52.5767500+02:00 Unspecified: Auth SSPI Server started
+2010-09-20T17:08:52.5767500+02:00 Unspecified: Service AuthServerSSPI started successfully
+2010-09-20T17:08:52.5767500+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:52.5767500+02:00 Unspecified: [SSPI] Server Listener started
+2010-09-20T17:08:53.0611250+02:00 Unspecified: [Auth SSH] Starting SSH server listener...
+2010-09-20T17:08:53.0767500+02:00 Unspecified: [Auth SSH]  listener started.
+2010-09-20T17:08:53.0767500+02:00 Unspecified: Registred Auth Server SSH#172.16.3.51#5999#
+2010-09-20T17:08:53.0767500+02:00 Unspecified: Auth SSH Server started
+2010-09-20T17:08:53.0767500+02:00 Unspecified: Service AuthServerSSH started successfully
+2010-09-20T17:08:53.0767500+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.0923750+02:00 Unspecified: Service UpdateServiceServer started successfully
+2010-09-20T17:08:53.0923750+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.0923750+02:00 Unspecified: [Auth SSH] Auth SSH  Server Listener started
+2010-09-20T17:08:53.4517500+02:00 Unspecified: Monitoring subsystem initialization
+ApplicationBase = 'C:\OMS\APL\OMSService\'
+ApplicationName = 'OMSService.exe'
+ConfigurationFile = 'C:\OMS\APL\OMSService\OMSService.exe.config'
+CallingAssembly = [FullName = 'Medio.Monitoring.Service, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\Medio.Monitoring.Service.dll']
+EntryAssembly = [FullName = 'OMSService, Version=1.9.13.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\OMSService.exe']
+
+2010-09-20T17:08:53.4517500+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.4517500+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.4830000+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.4986250+02:00 Unspecified: CSRegistrator -> Counter set registered by CSM on path Monitoring subsystem\Output
+2010-09-20T17:08:53.4986250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.4986250+02:00 Unspecified: CSRegistrator -> Counter set registered by CSM on path Monitoring subsystem\Apartments
+2010-09-20T17:08:53.4986250+02:00 Unspecified: Monitoring sybsystem successfully initialized
+2010-09-20T17:08:53.4986250+02:00 Unspecified: MonitoringService..ctor()
+ApplicationBase = 'C:\OMS\APL\OMSService\'
+ApplicationName = 'OMSService.exe'
+ConfigurationFile = 'C:\OMS\APL\OMSService\OMSService.exe.config'
+CallingAssembly = [FullName = 'Medio.Monitoring.Service, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\Medio.Monitoring.Service.dll']
+EntryAssembly = [FullName = 'OMSService, Version=1.9.13.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\OMSService.exe']
+
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:53.6236250+02:00 Unspecified: ServicesController: Subscribers not exists.
+2010-09-20T17:08:58.2017500+02:00 Unspecified: DataCollector is starting... RootFolder: C:\OMS\DATA\OMSService\FL\Storage, TempFolder: c:\OMS\TEMP\OMSService\FL\base
+2010-09-20T17:08:59.7642500+02:00 Unspecified: SM: EM registred
+2010-09-20T17:09:00.3267500+02:00 Warning: Service RootService start errorException:	
+System.TypeLoadException: Method 'SendRequest' in type 'Medio.SRBService' from assembly 'Medio.SRB.Server, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' does not have an implementation.
+   at Medio.Omc.RootService.RootService.OnStart()
+   at Telco.EnterpriseLibrary.ServiceModel.ServiceBase.Start()
+2010-09-20T17:09:49.3267500+02:00 Error: EPManager: File C:\OMS\APL\OMSService\Telco.EventProcessor.config not found
+2010-09-20T17:10:58.8736250+02:00 Unspecified: [Auth SSH] Auth SSH Client socket accepted 172.16.4.126:1323
+2010-09-20T17:10:58.8736250+02:00 Unspecified: [Auth SSH] ServerListener.Listen : New connection available
+2010-09-20T17:10:58.9205000+02:00 Unspecified: [Auth SSH] Connection accepted. Active connections 1 from 999
+2010-09-20T17:10:58.9205000+02:00 Unspecified: SSH session started host: 172.16.4.126:1323
+2010-09-20T17:11:00.2330000+02:00 Unspecified: Authentication success for Admin
+2010-09-20T17:11:00.2486250+02:00 Unspecified: Authentication successfull client Admin accepted
+2010-09-20T17:11:00.2642500+02:00 Unspecified: [Auth SSH] Auth SSH Client socket accepted 172.16.4.126:1324
+2010-09-20T17:11:00.2642500+02:00 Unspecified: [Auth SSH] ServerListener.Listen : New connection available
+2010-09-20T17:11:00.2642500+02:00 Unspecified: [Auth SSH] Connection accepted. Active connections 2 from 999
+2010-09-20T17:11:00.2642500+02:00 Unspecified: SSH session started host: 172.16.4.126:1324
+2010-09-20T17:11:00.8111250+02:00 Unspecified: Authentication success for Admin
+2010-09-20T17:11:00.8111250+02:00 Unspecified: Authentication successfull client Admin accepted
+2010-09-20T17:11:01.2486250+02:00 Unspecified: Created session command
+Result:
+<?xml version="1.0" encoding="utf-16"?>
+<SessionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SessionID>7f8d9bac-ec35-4726-b9a6-e921a5daa376</SessionID>
+  <Sid>1b9ee1ba-9499-40b4-85c1-5dad47ebb7b6</Sid>
+  <UserName>Admin</UserName>
+  <CreatedTime>2010-09-20T17:11:01.029875+02:00</CreatedTime>
+  <LastUsedTime>2010-09-20T17:11:01.029875+02:00</LastUsedTime>
+  <Host>172.16.4.126:1324</Host>
+  <ClientSoftware>Telco Win Client Applications Host</ClientSoftware>
+  <ProviderAlgorithm>rc2</ProviderAlgorithm>
+  <SymmetricProviderIV>AvLb99oPdiI=</SymmetricProviderIV>
+  <SymmetricProviderKey>59wL/OZodNOXOUY+Wpb0VQ==</SymmetricProviderKey>
+  <SMID>fce9c83c-0b6f-4f0d-ae47-d9410fc5edc1</SMID>
+</SessionInfo>
+2010-09-20T17:11:02.2017500+02:00 Warning: Socket receive operation failed: An existing connection was forcibly closed by the remote host
+2010-09-20T17:11:02.2017500+02:00 Unspecified: Auth SSH Do Socket Shutdown
+2010-09-20T17:11:02.2017500+02:00 Unspecified: Listening socket stopped
+2010-09-20T17:11:02.2017500+02:00 Unspecified: [Auth SSH] ServerListener.OnSessionClosed()
+2010-09-20T17:11:02.2017500+02:00 Unspecified: SSH session closed host: 172.16.4.126:1324, client: Telco Win Client Applications Host, user: Admin
+2010-09-20T17:11:02.2173750+02:00 Unspecified: [Auth.SSH.Server] Session  disposing
+2010-09-20T17:11:02.2173750+02:00 Unspecified: [Auth.SSH.Server] Session  disposed
+2010-09-20T17:11:02.2173750+02:00 Unspecified: [Auth.SSH.Server] Thread  stopped
+2010-09-20T17:11:30.0611250+02:00 Unspecified: AbstractReportWriter.SaveReport([ATF.Testing, 3:05:00 PM, 1x1+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.0611250+02:00 Unspecified: DataCollector.SaveReport([ATF.Testing, 3:05:00 PM, [1x1+3]])
+2010-09-20T17:11:30.0767500+02:00 Unspecified: FileStorage._Add(ATF.Testing, 3:05:00 PM, [1x1+3], True)
+2010-09-20T17:11:30.0767500+02:00 Unspecified: FileStorage._Add(ATF.Testing, 3:05:00 PM, [1x1+3], True) existing reportType
+2010-09-20T17:11:30.0767500+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.0923750+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.1080000+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ATF.Testing\20100920
+2010-09-20T17:11:30.3111250+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ATF.Testing\20100920\20100920150000.std'
+2010-09-20T17:11:30.3267500+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:30.3267500+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:30.3580000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:30.3580000+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ATF.Testing, ReportAdded, 1x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:30.3580000+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.3580000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:30.3580000+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.3580000+02:00 Unspecified: AbstractReportWriter.SaveReport([ATF.Severity, 3:05:00 PM, 8x1+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.3580000+02:00 Unspecified: DataCollector.SaveReport([ATF.Severity, 3:05:00 PM, [8x1+3]])
+2010-09-20T17:11:30.3580000+02:00 Unspecified: FileStorage._Add(ATF.Severity, 3:05:00 PM, [8x1+3], True)
+2010-09-20T17:11:30.3580000+02:00 Unspecified: FileStorage._Add(ATF.Severity, 3:05:00 PM, [8x1+3], True) existing reportType
+2010-09-20T17:11:30.3580000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.3580000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.3736250+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ATF.Severity\20100920
+2010-09-20T17:11:30.4673750+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ATF.Severity\20100920\20100920150000.std'
+2010-09-20T17:11:30.4673750+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:30.4673750+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:30.4673750+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:30.4673750+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ATF.Severity, ReportAdded, 8x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:30.4673750+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.4673750+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.4830000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:30.4830000+02:00 Unspecified: AbstractReportWriter.SaveReport([MEDIO.InIntervalCauseValueTime, 3:05:00 PM, 2x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.4830000+02:00 Unspecified: DataCollector.SaveReport([MEDIO.InIntervalCauseValueTime, 3:05:00 PM, [2x0+3]])
+2010-09-20T17:11:30.4830000+02:00 Unspecified: FileStorage._Add(MEDIO.InIntervalCauseValueTime, 3:05:00 PM, [2x0+3], True)
+2010-09-20T17:11:30.4830000+02:00 Unspecified: FileStorage._Add(MEDIO.InIntervalCauseValueTime, 3:05:00 PM, [2x0+3], True) existing reportType
+2010-09-20T17:11:30.4830000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.4830000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.4986250+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\MEDIO.InIntervalCauseValueTime\20100920
+2010-09-20T17:11:30.5455000+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\MEDIO.InIntervalCauseValueTime\20100920\20100920150000.std'
+2010-09-20T17:11:30.5455000+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:30.5455000+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:30.5611250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:30.5611250+02:00 Unspecified: DataCollector.OnStorageStructureChanged([MEDIO.InIntervalCauseValueTime, ReportAdded, 2x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:30.5611250+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.5611250+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.5611250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:30.5611250+02:00 Unspecified: AbstractReportWriter.SaveReport([MEDIO.InIntervalCauseValue, 3:05:00 PM, 2x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.5611250+02:00 Unspecified: DataCollector.SaveReport([MEDIO.InIntervalCauseValue, 3:05:00 PM, [2x0+3]])
+2010-09-20T17:11:30.5611250+02:00 Unspecified: FileStorage._Add(MEDIO.InIntervalCauseValue, 3:05:00 PM, [2x0+3], True)
+2010-09-20T17:11:30.5611250+02:00 Unspecified: FileStorage._Add(MEDIO.InIntervalCauseValue, 3:05:00 PM, [2x0+3], True) existing reportType
+2010-09-20T17:11:30.5611250+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.5611250+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.5767500+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\MEDIO.InIntervalCauseValue\20100920
+2010-09-20T17:11:30.6080000+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\MEDIO.InIntervalCauseValue\20100920\20100920150000.std'
+2010-09-20T17:11:30.6080000+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:30.6080000+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:30.6080000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:30.6080000+02:00 Unspecified: DataCollector.OnStorageStructureChanged([MEDIO.InIntervalCauseValue, ReportAdded, 2x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:30.6080000+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.6080000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:30.6080000+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.6080000+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table1, 3:05:00 PM, 15x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.6080000+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table1, 3:05:00 PM, [15x0+3]])
+2010-09-20T17:11:30.6080000+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table1, 3:05:00 PM, [15x0+3], True)
+2010-09-20T17:11:30.6080000+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table1, 3:05:00 PM, [15x0+3], True) existing reportType
+2010-09-20T17:11:30.6080000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.6080000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.6236250+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table1\20100920
+2010-09-20T17:11:30.6861250+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table1\20100920\20100920150000.std'
+2010-09-20T17:11:30.6861250+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:30.6861250+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:30.6861250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:30.6861250+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table1, ReportAdded, 15x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:30.6861250+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.6861250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:30.6861250+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.6861250+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table11, 3:05:00 PM, 4x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.6861250+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table11, 3:05:00 PM, [4x0+3]])
+2010-09-20T17:11:30.6861250+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table11, 3:05:00 PM, [4x0+3], True)
+2010-09-20T17:11:30.6861250+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table11, 3:05:00 PM, [4x0+3], True) existing reportType
+2010-09-20T17:11:30.6861250+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.6861250+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.7017500+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table11\20100920
+2010-09-20T17:11:30.7798750+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table11\20100920\20100920150000.std'
+2010-09-20T17:11:30.7798750+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:30.7798750+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:30.7798750+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:30.7798750+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table11, ReportAdded, 4x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:30.7798750+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.7955000+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.7955000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:30.7955000+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table13, 3:05:00 PM, 4x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.7955000+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table13, 3:05:00 PM, [4x0+3]])
+2010-09-20T17:11:30.7955000+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table13, 3:05:00 PM, [4x0+3], True)
+2010-09-20T17:11:30.7955000+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table13, 3:05:00 PM, [4x0+3], True) existing reportType
+2010-09-20T17:11:30.7955000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.7955000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.8111250+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table13\20100920
+2010-09-20T17:11:30.8580000+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table13\20100920\20100920150000.std'
+2010-09-20T17:11:30.8580000+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:30.8580000+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:30.8580000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:30.8580000+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table13, ReportAdded, 4x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:30.8580000+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.8580000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:30.8580000+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.8580000+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table2, 3:05:00 PM, 22x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.8580000+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table2, 3:05:00 PM, [22x0+3]])
+2010-09-20T17:11:30.8580000+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table2, 3:05:00 PM, [22x0+3], True)
+2010-09-20T17:11:30.8580000+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table2, 3:05:00 PM, [22x0+3], True) existing reportType
+2010-09-20T17:11:30.8580000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.8580000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.8736250+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table2\20100920
+2010-09-20T17:11:30.8892500+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table2\20100920\20100920150000.std'
+2010-09-20T17:11:30.8892500+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:30.8892500+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:30.8892500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:30.8892500+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table2, ReportAdded, 22x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:30.8892500+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.8892500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:30.8892500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.9048750+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table3, 3:05:00 PM, 14x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.9048750+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table3, 3:05:00 PM, [14x0+3]])
+2010-09-20T17:11:30.9048750+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table3, 3:05:00 PM, [14x0+3], True)
+2010-09-20T17:11:30.9048750+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table3, 3:05:00 PM, [14x0+3], True) existing reportType
+2010-09-20T17:11:30.9048750+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.9048750+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.9205000+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table3\20100920
+2010-09-20T17:11:30.9517500+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table3\20100920\20100920150000.std'
+2010-09-20T17:11:30.9517500+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:30.9517500+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:30.9517500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:30.9517500+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table3, ReportAdded, 14x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:30.9517500+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.9517500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:30.9517500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:30.9517500+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table4, 3:05:00 PM, 15x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:30.9517500+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table4, 3:05:00 PM, [15x0+3]])
+2010-09-20T17:11:30.9517500+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table4, 3:05:00 PM, [15x0+3], True)
+2010-09-20T17:11:30.9517500+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table4, 3:05:00 PM, [15x0+3], True) existing reportType
+2010-09-20T17:11:30.9517500+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:30.9517500+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:30.9673750+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table4\20100920
+2010-09-20T17:11:31.0298750+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table4\20100920\20100920150000.std'
+2010-09-20T17:11:31.0298750+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:31.0298750+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:31.0611250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:31.0611250+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table4, ReportAdded, 15x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:31.0611250+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.0611250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:31.0611250+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.0611250+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table5, 3:05:00 PM, 11x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:31.0611250+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table5, 3:05:00 PM, [11x0+3]])
+2010-09-20T17:11:31.0611250+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table5, 3:05:00 PM, [11x0+3], True)
+2010-09-20T17:11:31.0611250+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table5, 3:05:00 PM, [11x0+3], True) existing reportType
+2010-09-20T17:11:31.0611250+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:31.0611250+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:31.0767500+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table5\20100920
+2010-09-20T17:11:31.1548750+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table5\20100920\20100920150000.std'
+2010-09-20T17:11:31.1548750+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:31.1548750+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:31.1548750+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:31.1548750+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table5, ReportAdded, 11x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:31.1548750+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.1548750+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:31.1548750+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.1548750+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table6, 3:05:00 PM, 11x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:31.1548750+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table6, 3:05:00 PM, [11x0+3]])
+2010-09-20T17:11:31.1548750+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table6, 3:05:00 PM, [11x0+3], True)
+2010-09-20T17:11:31.1548750+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table6, 3:05:00 PM, [11x0+3], True) existing reportType
+2010-09-20T17:11:31.1548750+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:31.1548750+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:31.1705000+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table6\20100920
+2010-09-20T17:11:31.2173750+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table6\20100920\20100920150000.std'
+2010-09-20T17:11:31.2173750+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:31.2173750+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:31.2486250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:31.2486250+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table6, ReportAdded, 11x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:31.2486250+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.2798750+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.2798750+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:31.3267500+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table7, 3:05:00 PM, 23x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:31.3267500+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table7, 3:05:00 PM, [23x0+3]])
+2010-09-20T17:11:31.3267500+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table7, 3:05:00 PM, [23x0+3], True)
+2010-09-20T17:11:31.3267500+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table7, 3:05:00 PM, [23x0+3], True) existing reportType
+2010-09-20T17:11:31.3267500+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:31.3267500+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:31.3423750+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table7\20100920
+2010-09-20T17:11:31.3892500+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table7\20100920\20100920150000.std'
+2010-09-20T17:11:31.3892500+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:31.3892500+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:31.3892500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:31.3892500+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table7, ReportAdded, 23x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:31.3892500+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.3892500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.3892500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:31.4205000+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table9, 3:05:00 PM, 17x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:31.4205000+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table9, 3:05:00 PM, [17x0+3]])
+2010-09-20T17:11:31.4205000+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table9, 3:05:00 PM, [17x0+3], True)
+2010-09-20T17:11:31.4205000+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table9, 3:05:00 PM, [17x0+3], True) existing reportType
+2010-09-20T17:11:31.4205000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:31.4205000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:31.4361250+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table9\20100920
+2010-09-20T17:11:31.4673750+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table9\20100920\20100920150000.std'
+2010-09-20T17:11:31.4673750+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:31.4673750+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:31.4830000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:31.4830000+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table9, ReportAdded, 17x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:31.4830000+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.5142500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.5142500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:31.5611250+02:00 Unspecified: AbstractReportWriter.SaveReport([ITUT.Q752.Table9bis, 3:05:00 PM, 22x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:31.5611250+02:00 Unspecified: DataCollector.SaveReport([ITUT.Q752.Table9bis, 3:05:00 PM, [22x0+3]])
+2010-09-20T17:11:31.5611250+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table9bis, 3:05:00 PM, [22x0+3], True)
+2010-09-20T17:11:31.5611250+02:00 Unspecified: FileStorage._Add(ITUT.Q752.Table9bis, 3:05:00 PM, [22x0+3], True) existing reportType
+2010-09-20T17:11:31.5611250+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:31.5611250+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:31.5767500+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table9bis\20100920
+2010-09-20T17:11:31.6236250+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\ITUT.Q752.Table9bis\20100920\20100920150000.std'
+2010-09-20T17:11:31.6392500+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:31.6392500+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:31.6548750+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:31.6548750+02:00 Unspecified: DataCollector.OnStorageStructureChanged([ITUT.Q752.Table9bis, ReportAdded, 22x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:31.6548750+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.6861250+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.6861250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:31.7330000+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.SDB.LapB, 3:05:00 PM, 12x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:31.7330000+02:00 Unspecified: DataCollector.SaveReport([Resource.SDB.LapB, 3:05:00 PM, [12x0+3]])
+2010-09-20T17:11:31.7330000+02:00 Unspecified: FileStorage._Add(Resource.SDB.LapB, 3:05:00 PM, [12x0+3], True)
+2010-09-20T17:11:31.7330000+02:00 Unspecified: FileStorage._Add(Resource.SDB.LapB, 3:05:00 PM, [12x0+3], True) existing reportType
+2010-09-20T17:11:31.7330000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:31.7330000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:31.7486250+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.SDB.LapB\20100920
+2010-09-20T17:11:31.8267500+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.SDB.LapB\20100920\20100920150000.std'
+2010-09-20T17:11:31.8267500+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:31.8267500+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:31.8267500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:31.8267500+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.SDB.LapB, ReportAdded, 12x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:31.8267500+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.8423750+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:31.8423750+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:31.8580000+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.SDB.System, 3:05:00 PM, 6x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:31.8580000+02:00 Unspecified: DataCollector.SaveReport([Resource.SDB.System, 3:05:00 PM, [6x0+3]])
+2010-09-20T17:11:31.8580000+02:00 Unspecified: FileStorage._Add(Resource.SDB.System, 3:05:00 PM, [6x0+3], True)
+2010-09-20T17:11:31.8580000+02:00 Unspecified: FileStorage._Add(Resource.SDB.System, 3:05:00 PM, [6x0+3], True) existing reportType
+2010-09-20T17:11:31.8580000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:31.8580000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:31.8736250+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.SDB.System\20100920
+2010-09-20T17:11:31.9517500+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.SDB.System\20100920\20100920150000.std'
+2010-09-20T17:11:31.9517500+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:31.9517500+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:31.9830000+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:31.9830000+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.SDB.System, ReportAdded, 6x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:31.9830000+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:32.0142500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:32.2017500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:32.2486250+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.SMS.LapB, 3:05:00 PM, 12x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:32.2486250+02:00 Unspecified: DataCollector.SaveReport([Resource.SMS.LapB, 3:05:00 PM, [12x0+3]])
+2010-09-20T17:11:32.2486250+02:00 Unspecified: FileStorage._Add(Resource.SMS.LapB, 3:05:00 PM, [12x0+3], True)
+2010-09-20T17:11:32.2486250+02:00 Unspecified: FileStorage._Add(Resource.SMS.LapB, 3:05:00 PM, [12x0+3], True) existing reportType
+2010-09-20T17:11:32.2486250+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:32.2486250+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:32.2642500+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.SMS.LapB\20100920
+2010-09-20T17:11:32.7486250+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.SMS.LapB\20100920\20100920150000.std'
+2010-09-20T17:11:32.7486250+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:32.7486250+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:32.8111250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:32.8111250+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.SMS.LapB, ReportAdded, 12x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:32.8111250+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:32.8111250+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:32.8111250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:32.8423750+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.SMS.System, 3:05:00 PM, 6x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:32.8423750+02:00 Unspecified: DataCollector.SaveReport([Resource.SMS.System, 3:05:00 PM, [6x0+3]])
+2010-09-20T17:11:32.8423750+02:00 Unspecified: FileStorage._Add(Resource.SMS.System, 3:05:00 PM, [6x0+3], True)
+2010-09-20T17:11:32.8423750+02:00 Unspecified: FileStorage._Add(Resource.SMS.System, 3:05:00 PM, [6x0+3], True) existing reportType
+2010-09-20T17:11:32.8423750+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:32.8423750+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:32.8580000+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.SMS.System\20100920
+2010-09-20T17:11:33.4048750+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.SMS.System\20100920\20100920150000.std'
+2010-09-20T17:11:33.4048750+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:33.4048750+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:33.4361250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:33.4361250+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.SMS.System, ReportAdded, 6x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:33.4361250+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:33.4673750+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:33.4673750+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:33.6080000+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.TTS.LapB, 3:05:00 PM, 12x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:33.6080000+02:00 Unspecified: DataCollector.SaveReport([Resource.TTS.LapB, 3:05:00 PM, [12x0+3]])
+2010-09-20T17:11:33.6080000+02:00 Unspecified: FileStorage._Add(Resource.TTS.LapB, 3:05:00 PM, [12x0+3], True)
+2010-09-20T17:11:33.6080000+02:00 Unspecified: FileStorage._Add(Resource.TTS.LapB, 3:05:00 PM, [12x0+3], True) existing reportType
+2010-09-20T17:11:33.6080000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:33.6080000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:33.6705000+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.TTS.LapB\20100920
+2010-09-20T17:11:33.9830000+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.TTS.LapB\20100920\20100920150000.std'
+2010-09-20T17:11:33.9830000+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:33.9830000+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:34.1236250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:34.1236250+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.TTS.LapB, ReportAdded, 12x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:34.1236250+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.1236250+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.1236250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:34.1705000+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.TTS.System, 3:05:00 PM, 6x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:34.1705000+02:00 Unspecified: DataCollector.SaveReport([Resource.TTS.System, 3:05:00 PM, [6x0+3]])
+2010-09-20T17:11:34.1705000+02:00 Unspecified: FileStorage._Add(Resource.TTS.System, 3:05:00 PM, [6x0+3], True)
+2010-09-20T17:11:34.1705000+02:00 Unspecified: FileStorage._Add(Resource.TTS.System, 3:05:00 PM, [6x0+3], True) existing reportType
+2010-09-20T17:11:34.1705000+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:34.1705000+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:34.2173750+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.TTS.System\20100920
+2010-09-20T17:11:34.4830000+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.TTS.System\20100920\20100920150000.std'
+2010-09-20T17:11:34.4830000+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:34.4830000+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:34.5142500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:34.5142500+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.TTS.System, ReportAdded, 6x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:34.5142500+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.5142500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:34.5142500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.5142500+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.TTS.Table, 3:05:00 PM, 16x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:34.5142500+02:00 Unspecified: DataCollector.SaveReport([Resource.TTS.Table, 3:05:00 PM, [16x0+3]])
+2010-09-20T17:11:34.5142500+02:00 Unspecified: FileStorage._Add(Resource.TTS.Table, 3:05:00 PM, [16x0+3], True)
+2010-09-20T17:11:34.5142500+02:00 Unspecified: FileStorage._Add(Resource.TTS.Table, 3:05:00 PM, [16x0+3], True) existing reportType
+2010-09-20T17:11:34.5142500+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:34.5142500+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:34.5298750+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.TTS.Table\20100920
+2010-09-20T17:11:34.6080000+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.TTS.Table\20100920\20100920150000.std'
+2010-09-20T17:11:34.6080000+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:34.6080000+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:34.6392500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:34.6392500+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.TTS.Table, ReportAdded, 16x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:34.6392500+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.6392500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:34.6392500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.6392500+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.VS.LapB, 3:05:00 PM, 13x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:34.6392500+02:00 Unspecified: DataCollector.SaveReport([Resource.VS.LapB, 3:05:00 PM, [13x0+3]])
+2010-09-20T17:11:34.6392500+02:00 Unspecified: FileStorage._Add(Resource.VS.LapB, 3:05:00 PM, [13x0+3], True)
+2010-09-20T17:11:34.6392500+02:00 Unspecified: FileStorage._Add(Resource.VS.LapB, 3:05:00 PM, [13x0+3], True) existing reportType
+2010-09-20T17:11:34.6392500+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:34.6392500+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:34.6548750+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.VS.LapB\20100920
+2010-09-20T17:11:34.7486250+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.VS.LapB\20100920\20100920150000.std'
+2010-09-20T17:11:34.7486250+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:34.7486250+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:34.7642500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:34.7642500+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.VS.LapB, ReportAdded, 13x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:34.7642500+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.7642500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:34.7642500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.7642500+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.VS.System, 3:05:00 PM, 6x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:34.7642500+02:00 Unspecified: DataCollector.SaveReport([Resource.VS.System, 3:05:00 PM, [6x0+3]])
+2010-09-20T17:11:34.7642500+02:00 Unspecified: FileStorage._Add(Resource.VS.System, 3:05:00 PM, [6x0+3], True)
+2010-09-20T17:11:34.7642500+02:00 Unspecified: FileStorage._Add(Resource.VS.System, 3:05:00 PM, [6x0+3], True) existing reportType
+2010-09-20T17:11:34.7642500+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:34.7642500+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:34.7798750+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.VS.System\20100920
+2010-09-20T17:11:34.8580000+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.VS.System\20100920\20100920150000.std'
+2010-09-20T17:11:34.8580000+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:34.8580000+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:34.8892500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:34.8892500+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.VS.System, ReportAdded, 6x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:34.8892500+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.8892500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:34.8892500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:34.8892500+02:00 Unspecified: AbstractReportWriter.SaveReport([Resource.VS.ChanStat, 3:05:00 PM, 19x0+3]). Local = 5:05:00 PM
+2010-09-20T17:11:34.8892500+02:00 Unspecified: DataCollector.SaveReport([Resource.VS.ChanStat, 3:05:00 PM, [19x0+3]])
+2010-09-20T17:11:34.8892500+02:00 Unspecified: FileStorage._Add(Resource.VS.ChanStat, 3:05:00 PM, [19x0+3], True)
+2010-09-20T17:11:34.8892500+02:00 Unspecified: FileStorage._Add(Resource.VS.ChanStat, 3:05:00 PM, [19x0+3], True) existing reportType
+2010-09-20T17:11:34.8892500+02:00 Unspecified: _IndernalData.Get_Structure
+2010-09-20T17:11:34.8892500+02:00 Unspecified: _IndernalData.ScanStorage(True, True)
+2010-09-20T17:11:34.9048750+02:00 Unspecified: _IndernalData.ScanStorage(True, True): process directory C:\OMS\DATA\OMSService\FL\Storage\Resource.VS.ChanStat\20100920
+2010-09-20T17:11:34.9986250+02:00 Unspecified: _SetStructure for reportNmae = 'C:\OMS\DATA\OMSService\FL\Storage\Resource.VS.ChanStat\20100920\20100920150000.std'
+2010-09-20T17:11:34.9986250+02:00 Unspecified: _SetStructure temp.UTC = '7200'
+2010-09-20T17:11:34.9986250+02:00 Unspecified: _SetStructure _structure.UTC = '7200'
+2010-09-20T17:11:35.1236250+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) start.
+2010-09-20T17:11:35.1236250+02:00 Unspecified: DataCollector.OnStorageStructureChanged([Resource.VS.ChanStat, ReportAdded, 19x0+3, 3:05:00 PM]) start
+2010-09-20T17:11:35.1236250+02:00 Unspecified: SMSender -> CONSTRUCTOR. Receivers count : 0, Message: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:35.1392500+02:00 Unspecified: SMSender -> Start to notificate 0 subscribers. Message ID: 19374757-2f99-367b-b56b-153617f1b9ee
+2010-09-20T17:11:35.1392500+02:00 Unspecified: FileStorage.OnStorageStructureChange(...) end.
+2010-09-20T17:11:38.7798750+02:00 Warning: [SimpleRoleValidControlPlugin] Property ValidTimeControl has incorrect type or null
+2010-09-20T17:11:58.9205000+02:00 Unspecified: Socket closed by timeout
+2010-09-20T17:11:58.9205000+02:00 Unspecified: Auth SSH Do Socket Shutdown
+2010-09-20T17:11:58.9205000+02:00 Unspecified: Listening socket stopped
+2010-09-20T17:11:58.9205000+02:00 Unspecified: [Auth SSH] ServerListener.OnSessionClosed()
+2010-09-20T17:11:58.9205000+02:00 Unspecified: SSH session closed host: 172.16.4.126:1323, client: Telco Win Client Applications Host, user: Admin
+2010-09-20T17:11:58.9205000+02:00 Unspecified: [Auth.SSH.Server] Session  disposing
+2010-09-20T17:11:58.9205000+02:00 Unspecified: [Auth.SSH.Server] Session  disposed
+2010-09-20T17:11:58.9205000+02:00 Unspecified: [Auth.SSH.Server] Thread  stopped

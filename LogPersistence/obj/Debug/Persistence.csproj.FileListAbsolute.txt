@@ -1,0 +1,31 @@
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\bin\Debug\LogPersistence.dll
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\bin\Debug\LogPersistence.pdb
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\bin\Debug\MongoDB.dll
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\bin\Debug\MongoDB.xml
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\obj\Debug\LogPersistence.dll
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\obj\Debug\LogPersistence.pdb
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\bin\Debug\Newtonsoft.Json.pdb
+C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogPersistence\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\LogCollector\LogPersistence\bin\Debug\LogPersistence.dll
+D:\Projects\LogCollector\LogPersistence\bin\Debug\LogPersistence.pdb
+D:\Projects\LogCollector\LogPersistence\bin\Debug\MongoDB.dll
+D:\Projects\LogCollector\LogPersistence\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\LogCollector\LogPersistence\bin\Debug\Newtonsoft.Json.pdb
+D:\Projects\LogCollector\LogPersistence\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\LogCollector\LogPersistence\bin\Debug\MongoDB.xml
+D:\Projects\LogCollector\LogPersistence\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\LogCollector\LogPersistence\obj\Debug\LogPersistence.dll
+D:\Projects\LogCollector\LogPersistence\obj\Debug\LogPersistence.pdb
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\bin\Debug\LogPersistence.dll
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\bin\Debug\LogPersistence.pdb
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\bin\Debug\MongoDB.dll
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\bin\Debug\Newtonsoft.Json.pdb
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\bin\Debug\Newtonsoft.Json.xml
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\bin\Debug\MongoDB.pdb
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\bin\Debug\MongoDB.xml
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\obj\Debug\LogPersistence.dll
+D:\C#\Andrey\LogCollector\LogCollector\LogPersistence\obj\Debug\LogPersistence.pdb

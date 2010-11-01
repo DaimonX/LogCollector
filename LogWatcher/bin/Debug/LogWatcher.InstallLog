@@ -1,0 +1,84 @@
+﻿Installing assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe assembly.
+Committing assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+Installing service WatcherInstaller...
+Creating EventLog source WatcherInstaller in log Application...
+Rolling back assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+Restoring event log to previous state for source WatcherInstaller.
+Uninstalling assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+Removing EventLog source WatcherInstaller.
+Warning: The source WatcherInstaller is not registered on the local machine.
+Service WatcherInstaller is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+Installing service WatcherInstaller...
+Creating EventLog source WatcherInstaller in log Application...
+Rolling back assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+Restoring event log to previous state for source WatcherInstaller.
+Installing assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+Installing service LogWatcher...
+Service LogWatcher has been successfully installed.
+Creating EventLog source LogWatcher in log Application...
+Committing assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+Removing EventLog source LogWatcher.
+Service LogWatcher is being removed from the system...
+Service LogWatcher was successfully removed from the system.
+Installing assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog
+Installing service LogWatcher...
+Service LogWatcher has been successfully installed.
+Creating EventLog source LogWatcher in log Application...
+Committing assembly 'C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.exe
+   logfile = C:\Documents and Settings\andriy.tkach\My Documents\Visual Studio 2008\Projects\LogCollector\LogCollector\LogWatcher\bin\Debug\LogWatcher.InstallLog

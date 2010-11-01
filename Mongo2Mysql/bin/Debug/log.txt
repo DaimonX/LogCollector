@@ -1,0 +1,2148 @@
+START=============================================0=============================================
+1000 records per 0,5937538 seconds
+Total time 0 seconds. Total records 2992450.
+Records done 950 (0,00%). Estimated time left 1775 sec
+Time spent on read 0,5781287 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,2656267 seconds
+Total time 0 seconds. Total records 2992450.
+Records done 1950 (0,00%). Estimated time left 794 sec
+Time spent on read 0,2500016 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,3750024 seconds
+Total time 1 seconds. Total records 2992450.
+Records done 2950 (0,00%). Estimated time left 1120 sec
+Time spent on read 0,3593773 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,2656267 seconds
+Total time 1 seconds. Total records 2992450.
+Records done 3950 (0,00%). Estimated time left 793 sec
+Time spent on read 0,2500016 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,2656267 seconds
+Total time 1 seconds. Total records 2992450.
+Records done 4950 (0,00%). Estimated time left 793 sec
+Time spent on read 0,2656267 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,2812518 seconds
+Total time 2 seconds. Total records 2992450.
+Records done 5950 (0,00%). Estimated time left 839 sec
+Time spent on read 0,2656267 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,4062526 seconds
+Total time 2 seconds. Total records 2992450.
+Records done 6950 (0,00%). Estimated time left 1212 sec
+Time spent on read 0,4062526 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,2968769 seconds
+Total time 2 seconds. Total records 2992450.
+Records done 7950 (0,00%). Estimated time left 885 sec
+Time spent on read 0,2968769 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,312502 seconds
+Total time 3 seconds. Total records 2992450.
+Records done 8950 (0,00%). Estimated time left 932 sec
+Time spent on read 0,312502 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,312502 seconds
+Total time 3 seconds. Total records 2992450.
+Records done 9950 (0,00%). Estimated time left 931 sec
+Time spent on read 0,2968769 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,3281271 seconds
+Total time 3 seconds. Total records 2992450.
+Records done 10950 (0,00%). Estimated time left 978 sec
+Time spent on read 0,312502 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,3281271 seconds
+Total time 4 seconds. Total records 2992450.
+Records done 11950 (0,00%). Estimated time left 977 sec
+Time spent on read 0,312502 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,3906275 seconds
+Total time 4 seconds. Total records 2992450.
+Records done 12950 (0,00%). Estimated time left 1163 sec
+Time spent on read 0,3750024 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,3593773 seconds
+Total time 4 seconds. Total records 2992450.
+Records done 13950 (0,00%). Estimated time left 1070 sec
+Time spent on read 0,3437522 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,4062526 seconds
+Total time 5 seconds. Total records 2992450.
+Records done 14950 (0,00%). Estimated time left 1209 sec
+Time spent on read 0,4062526 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,3593773 seconds
+Total time 5 seconds. Total records 2992450.
+Records done 15950 (0,00%). Estimated time left 1069 sec
+Time spent on read 0,3593773 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,3750024 seconds
+Total time 5 seconds. Total records 2992450.
+Records done 16950 (0,00%). Estimated time left 1115 sec
+Time spent on read 0,3750024 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,3906275 seconds
+Total time 6 seconds. Total records 2992450.
+Records done 17950 (0,00%). Estimated time left 1161 sec
+Time spent on read 0,3906275 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,3906275 seconds
+Total time 6 seconds. Total records 2992450.
+Records done 18950 (0,00%). Estimated time left 1161 sec
+Time spent on read 0,3750024 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,4062526 seconds
+Total time 7 seconds. Total records 2992450.
+Records done 19950 (0,00%). Estimated time left 1207 sec
+Time spent on read 0,4062526 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,468753 seconds
+Total time 7 seconds. Total records 2992450.
+Records done 20950 (0,00%). Estimated time left 1392 sec
+Time spent on read 0,4531279 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,4218777 seconds
+Total time 8 seconds. Total records 2992450.
+Records done 21950 (0,00%). Estimated time left 1252 sec
+Time spent on read 0,4218777 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,4531279 seconds
+Total time 8 seconds. Total records 2992450.
+Records done 22950 (0,00%). Estimated time left 1345 sec
+Time spent on read 0,4375028 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,468753 seconds
+Total time 8 seconds. Total records 2992450.
+Records done 23950 (0,00%). Estimated time left 1391 sec
+Time spent on read 0,4531279 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,4531279 seconds
+Total time 9 seconds. Total records 2992450.
+Records done 24950 (0,00%). Estimated time left 1344 sec
+Time spent on read 0,4375028 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,4531279 seconds
+Total time 9 seconds. Total records 2992450.
+Records done 25950 (0,00%). Estimated time left 1343 sec
+Time spent on read 0,4531279 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,468753 seconds
+Total time 10 seconds. Total records 2992450.
+Records done 26950 (0,00%). Estimated time left 1389 sec
+Time spent on read 0,4531279 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,5000032 seconds
+Total time 10 seconds. Total records 2992450.
+Records done 27950 (0,00%). Estimated time left 1482 sec
+Time spent on read 0,4843781 s. Time spent on write 0,0156251 s
+END===============================================0===========================================
+START=============================================0=============================================
+1000 records per 0,4843781 seconds
+Total time 11 seconds. Total records 2992450.
+Records done 28950 (0,00%). Estimated time left 1435 sec
+Time spent on read 0,4843781 s. Time spent on write 0 s
+END===============================================0===========================================
+START=============================================5=============================================
+1000 records per 1,5937602 seconds
+Total time 140 seconds. Total records 2992450.
+Records done 149950 (5,00%). Estimated time left 4529 sec
+Time spent on read 1,5937602 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,6093853 seconds
+Total time 142 seconds. Total records 2992450.
+Records done 150950 (5,00%). Estimated time left 4572 sec
+Time spent on read 1,6093853 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,6093853 seconds
+Total time 143 seconds. Total records 2992450.
+Records done 151950 (5,00%). Estimated time left 4570 sec
+Time spent on read 1,6093853 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,6093853 seconds
+Total time 145 seconds. Total records 2992450.
+Records done 152950 (5,00%). Estimated time left 4569 sec
+Time spent on read 1,6093853 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,6406355 seconds
+Total time 147 seconds. Total records 2992450.
+Records done 153950 (5,00%). Estimated time left 4656 sec
+Time spent on read 1,6250104 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,6562606 seconds
+Total time 148 seconds. Total records 2992450.
+Records done 154950 (5,00%). Estimated time left 4698 sec
+Time spent on read 1,6562606 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,6718857 seconds
+Total time 150 seconds. Total records 2992450.
+Records done 155950 (5,00%). Estimated time left 4741 sec
+Time spent on read 1,6718857 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,8437618 seconds
+Total time 152 seconds. Total records 2992450.
+Records done 156950 (5,00%). Estimated time left 5227 sec
+Time spent on read 1,8281367 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,8437618 seconds
+Total time 154 seconds. Total records 2992450.
+Records done 157950 (5,00%). Estimated time left 5225 sec
+Time spent on read 1,8437618 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,6718857 seconds
+Total time 155 seconds. Total records 2992450.
+Records done 158950 (5,00%). Estimated time left 4736 sec
+Time spent on read 1,6562606 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,718761 seconds
+Total time 157 seconds. Total records 2992450.
+Records done 159950 (5,00%). Estimated time left 4867 sec
+Time spent on read 1,7031359 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7031359 seconds
+Total time 159 seconds. Total records 2992450.
+Records done 160950 (5,00%). Estimated time left 4821 sec
+Time spent on read 1,6875108 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7343861 seconds
+Total time 161 seconds. Total records 2992450.
+Records done 161950 (5,00%). Estimated time left 4908 sec
+Time spent on read 1,7343861 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7812614 seconds
+Total time 162 seconds. Total records 2992450.
+Records done 162950 (5,00%). Estimated time left 5039 sec
+Time spent on read 1,7656363 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,8281367 seconds
+Total time 164 seconds. Total records 2992450.
+Records done 163950 (5,00%). Estimated time left 5169 sec
+Time spent on read 1,8125116 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7656363 seconds
+Total time 166 seconds. Total records 2992450.
+Records done 164950 (5,00%). Estimated time left 4991 sec
+Time spent on read 1,7656363 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 2,0000128 seconds
+Total time 168 seconds. Total records 2992450.
+Records done 165950 (5,00%). Estimated time left 5652 sec
+Time spent on read 2,0000128 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7500112 seconds
+Total time 170 seconds. Total records 2992450.
+Records done 166950 (5,00%). Estimated time left 4943 sec
+Time spent on read 1,7343861 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7812614 seconds
+Total time 171 seconds. Total records 2992450.
+Records done 167950 (5,00%). Estimated time left 5030 sec
+Time spent on read 1,7656363 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7968865 seconds
+Total time 173 seconds. Total records 2992450.
+Records done 168950 (5,00%). Estimated time left 5072 sec
+Time spent on read 1,7968865 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7656363 seconds
+Total time 175 seconds. Total records 2992450.
+Records done 169950 (5,00%). Estimated time left 4982 sec
+Time spent on read 1,7656363 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7968865 seconds
+Total time 177 seconds. Total records 2992450.
+Records done 170950 (5,00%). Estimated time left 5069 sec
+Time spent on read 1,7968865 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,875012 seconds
+Total time 179 seconds. Total records 2992450.
+Records done 171950 (5,00%). Estimated time left 5287 sec
+Time spent on read 1,875012 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,8281367 seconds
+Total time 180 seconds. Total records 2992450.
+Records done 172950 (5,00%). Estimated time left 5153 sec
+Time spent on read 1,8281367 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,9062622 seconds
+Total time 182 seconds. Total records 2992450.
+Records done 173950 (5,00%). Estimated time left 5371 sec
+Time spent on read 1,9062622 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,8125116 seconds
+Total time 184 seconds. Total records 2992450.
+Records done 174950 (5,00%). Estimated time left 5105 sec
+Time spent on read 1,7968865 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,7968865 seconds
+Total time 186 seconds. Total records 2992450.
+Records done 175950 (5,00%). Estimated time left 5060 sec
+Time spent on read 1,7968865 s. Time spent on write 0 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,8593869 seconds
+Total time 188 seconds. Total records 2992450.
+Records done 176950 (5,00%). Estimated time left 5234 sec
+Time spent on read 1,8437618 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,8437618 seconds
+Total time 190 seconds. Total records 2992450.
+Records done 177950 (5,00%). Estimated time left 5188 sec
+Time spent on read 1,8281367 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================5=============================================
+1000 records per 1,8593869 seconds
+Total time 192 seconds. Total records 2992450.
+Records done 178950 (5,00%). Estimated time left 5230 sec
+Time spent on read 1,8437618 s. Time spent on write 0,0156251 s
+END===============================================5===========================================
+START=============================================10=============================================
+1000 records per 3,1718953 seconds
+Total time 491 seconds. Total records 2992450.
+Records done 299950 (10,00%). Estimated time left 8538 sec
+Time spent on read 3,1562702 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1562702 seconds
+Total time 494 seconds. Total records 2992450.
+Records done 300950 (10,00%). Estimated time left 8493 sec
+Time spent on read 3,1406451 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1406451 seconds
+Total time 497 seconds. Total records 2992450.
+Records done 301950 (10,00%). Estimated time left 8448 sec
+Time spent on read 3,1406451 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,0156443 seconds
+Total time 500 seconds. Total records 2992450.
+Records done 302950 (10,00%). Estimated time left 8109 sec
+Time spent on read 3,0156443 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1718953 seconds
+Total time 503 seconds. Total records 2992450.
+Records done 303950 (10,00%). Estimated time left 8526 sec
+Time spent on read 3,1562702 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,0781447 seconds
+Total time 506 seconds. Total records 2992450.
+Records done 304950 (10,00%). Estimated time left 8270 sec
+Time spent on read 3,0625196 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1093949 seconds
+Total time 509 seconds. Total records 2992450.
+Records done 305950 (10,00%). Estimated time left 8351 sec
+Time spent on read 3,0937698 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1718953 seconds
+Total time 513 seconds. Total records 2992450.
+Records done 306950 (10,00%). Estimated time left 8516 sec
+Time spent on read 3,12502 s. Time spent on write 0,0468753 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2500208 seconds
+Total time 516 seconds. Total records 2992450.
+Records done 307950 (10,00%). Estimated time left 8723 sec
+Time spent on read 3,2343957 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2343957 seconds
+Total time 519 seconds. Total records 2992450.
+Records done 308950 (10,00%). Estimated time left 8677 sec
+Time spent on read 3,2187706 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1562702 seconds
+Total time 522 seconds. Total records 2992450.
+Records done 309950 (10,00%). Estimated time left 8465 sec
+Time spent on read 3,1562702 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1562702 seconds
+Total time 525 seconds. Total records 2992450.
+Records done 310950 (10,00%). Estimated time left 8461 sec
+Time spent on read 3,1562702 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,12502 seconds
+Total time 528 seconds. Total records 2992450.
+Records done 311950 (10,00%). Estimated time left 8375 sec
+Time spent on read 3,12502 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1562702 seconds
+Total time 532 seconds. Total records 2992450.
+Records done 312950 (10,00%). Estimated time left 8455 sec
+Time spent on read 3,1406451 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1406451 seconds
+Total time 535 seconds. Total records 2992450.
+Records done 313950 (10,00%). Estimated time left 8410 sec
+Time spent on read 3,12502 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2031455 seconds
+Total time 538 seconds. Total records 2992450.
+Records done 314950 (10,00%). Estimated time left 8574 sec
+Time spent on read 3,1875204 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2968961 seconds
+Total time 541 seconds. Total records 2992450.
+Records done 315950 (10,00%). Estimated time left 8822 sec
+Time spent on read 3,2968961 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,4687722 seconds
+Total time 545 seconds. Total records 2992450.
+Records done 316950 (10,00%). Estimated time left 9278 sec
+Time spent on read 3,4531471 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2500208 seconds
+Total time 548 seconds. Total records 2992450.
+Records done 317950 (10,00%). Estimated time left 8690 sec
+Time spent on read 3,2343957 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2031455 seconds
+Total time 551 seconds. Total records 2992450.
+Records done 318950 (10,00%). Estimated time left 8562 sec
+Time spent on read 3,2031455 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2343957 seconds
+Total time 554 seconds. Total records 2992450.
+Records done 319950 (10,00%). Estimated time left 8642 sec
+Time spent on read 3,2187706 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,1718953 seconds
+Total time 558 seconds. Total records 2992450.
+Records done 320950 (10,00%). Estimated time left 8472 sec
+Time spent on read 3,1718953 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2500208 seconds
+Total time 561 seconds. Total records 2992450.
+Records done 321950 (10,00%). Estimated time left 8677 sec
+Time spent on read 3,2500208 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,3906467 seconds
+Total time 564 seconds. Total records 2992450.
+Records done 322950 (10,00%). Estimated time left 9049 sec
+Time spent on read 3,3750216 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2968961 seconds
+Total time 568 seconds. Total records 2992450.
+Records done 323950 (10,00%). Estimated time left 8796 sec
+Time spent on read 3,281271 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,3437714 seconds
+Total time 571 seconds. Total records 2992450.
+Records done 324950 (10,00%). Estimated time left 8917 sec
+Time spent on read 3,3281463 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2500208 seconds
+Total time 574 seconds. Total records 2992450.
+Records done 325950 (10,00%). Estimated time left 8664 sec
+Time spent on read 3,2343957 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2343957 seconds
+Total time 577 seconds. Total records 2992450.
+Records done 326950 (10,00%). Estimated time left 8619 sec
+Time spent on read 3,2343957 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,2343957 seconds
+Total time 581 seconds. Total records 2992450.
+Records done 327950 (10,00%). Estimated time left 8616 sec
+Time spent on read 3,2187706 s. Time spent on write 0,0156251 s
+END===============================================10===========================================
+START=============================================10=============================================
+1000 records per 3,281271 seconds
+Total time 584 seconds. Total records 2992450.
+Records done 328950 (10,00%). Estimated time left 8738 sec
+Time spent on read 3,281271 s. Time spent on write 0 s
+END===============================================10===========================================
+START=============================================15=============================================
+1000 records per 4,4687786 seconds
+Total time 1053 seconds. Total records 2992450.
+Records done 448950 (15,00%). Estimated time left 11364 sec
+Time spent on read 4,4531535 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,4531535 seconds
+Total time 1058 seconds. Total records 2992450.
+Records done 449950 (15,00%). Estimated time left 11319 sec
+Time spent on read 4,4375284 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,68753 seconds
+Total time 1062 seconds. Total records 2992450.
+Records done 450950 (15,00%). Estimated time left 11911 sec
+Time spent on read 4,6719049 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,4844037 seconds
+Total time 1067 seconds. Total records 2992450.
+Records done 451950 (15,00%). Estimated time left 11390 sec
+Time spent on read 4,4687786 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,4844037 seconds
+Total time 1071 seconds. Total records 2992450.
+Records done 452950 (15,00%). Estimated time left 11385 sec
+Time spent on read 4,4844037 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,4531535 seconds
+Total time 1076 seconds. Total records 2992450.
+Records done 453950 (15,00%). Estimated time left 11302 sec
+Time spent on read 4,4375284 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,4219033 seconds
+Total time 1080 seconds. Total records 2992450.
+Records done 454950 (15,00%). Estimated time left 11218 sec
+Time spent on read 4,4062782 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,5156539 seconds
+Total time 1085 seconds. Total records 2992450.
+Records done 455950 (15,00%). Estimated time left 11451 sec
+Time spent on read 4,5156539 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,6250296 seconds
+Total time 1089 seconds. Total records 2992450.
+Records done 456950 (15,00%). Estimated time left 11724 sec
+Time spent on read 4,6094045 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,4844037 seconds
+Total time 1094 seconds. Total records 2992450.
+Records done 457950 (15,00%). Estimated time left 11363 sec
+Time spent on read 4,4687786 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,6562798 seconds
+Total time 1098 seconds. Total records 2992450.
+Records done 458950 (15,00%). Estimated time left 11794 sec
+Time spent on read 4,6406547 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,5937794 seconds
+Total time 1103 seconds. Total records 2992450.
+Records done 459950 (15,00%). Estimated time left 11631 sec
+Time spent on read 4,5937794 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,5937794 seconds
+Total time 1108 seconds. Total records 2992450.
+Records done 460950 (15,00%). Estimated time left 11626 sec
+Time spent on read 4,5937794 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,5625292 seconds
+Total time 1112 seconds. Total records 2992450.
+Records done 461950 (15,00%). Estimated time left 11543 sec
+Time spent on read 4,5469041 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,5156539 seconds
+Total time 1117 seconds. Total records 2992450.
+Records done 462950 (15,00%). Estimated time left 11420 sec
+Time spent on read 4,5156539 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,6250296 seconds
+Total time 1121 seconds. Total records 2992450.
+Records done 463950 (15,00%). Estimated time left 11692 sec
+Time spent on read 4,6094045 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,7969057 seconds
+Total time 1126 seconds. Total records 2992450.
+Records done 464950 (15,00%). Estimated time left 12121 sec
+Time spent on read 4,7969057 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,5781543 seconds
+Total time 1131 seconds. Total records 2992450.
+Records done 465950 (15,00%). Estimated time left 11564 sec
+Time spent on read 4,5625292 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,6250296 seconds
+Total time 1135 seconds. Total records 2992450.
+Records done 466950 (15,00%). Estimated time left 11678 sec
+Time spent on read 4,6250296 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,7187802 seconds
+Total time 1140 seconds. Total records 2992450.
+Records done 467950 (15,00%). Estimated time left 11910 sec
+Time spent on read 4,7031551 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,6562798 seconds
+Total time 1145 seconds. Total records 2992450.
+Records done 468950 (15,00%). Estimated time left 11747 sec
+Time spent on read 4,6406547 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,6562798 seconds
+Total time 1149 seconds. Total records 2992450.
+Records done 469950 (15,00%). Estimated time left 11743 sec
+Time spent on read 4,6562798 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,6250296 seconds
+Total time 1154 seconds. Total records 2992450.
+Records done 470950 (15,00%). Estimated time left 11659 sec
+Time spent on read 4,6094045 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,6094045 seconds
+Total time 1159 seconds. Total records 2992450.
+Records done 471950 (15,00%). Estimated time left 11615 sec
+Time spent on read 4,5937794 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,5937794 seconds
+Total time 1163 seconds. Total records 2992450.
+Records done 472950 (15,00%). Estimated time left 11571 sec
+Time spent on read 4,5937794 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,8281559 seconds
+Total time 1168 seconds. Total records 2992450.
+Records done 473950 (15,00%). Estimated time left 12157 sec
+Time spent on read 4,8281559 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,7187802 seconds
+Total time 1173 seconds. Total records 2992450.
+Records done 474950 (15,00%). Estimated time left 11877 sec
+Time spent on read 4,7031551 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,7500304 seconds
+Total time 1178 seconds. Total records 2992450.
+Records done 475950 (15,00%). Estimated time left 11951 sec
+Time spent on read 4,7344053 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,7656555 seconds
+Total time 1182 seconds. Total records 2992450.
+Records done 476950 (15,00%). Estimated time left 11985 sec
+Time spent on read 4,7656555 s. Time spent on write 0 s
+END===============================================15===========================================
+START=============================================15=============================================
+1000 records per 4,7969057 seconds
+Total time 1187 seconds. Total records 2992450.
+Records done 477950 (15,00%). Estimated time left 12059 sec
+Time spent on read 4,7812806 s. Time spent on write 0,0156251 s
+END===============================================15===========================================
+START=============================================20=============================================
+1000 records per 5,7187866 seconds
+Total time 1837 seconds. Total records 2992450.
+Records done 598950 (20,00%). Estimated time left 13685 sec
+Time spent on read 5,7187866 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 5,8594125 seconds
+Total time 1843 seconds. Total records 2992450.
+Records done 599950 (20,00%). Estimated time left 14015 sec
+Time spent on read 5,8594125 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,0781639 seconds
+Total time 1849 seconds. Total records 2992450.
+Records done 600950 (20,00%). Estimated time left 14532 sec
+Time spent on read 6,0625388 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,093789 seconds
+Total time 1855 seconds. Total records 2992450.
+Records done 601950 (20,00%). Estimated time left 14564 sec
+Time spent on read 6,093789 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 5,9687882 seconds
+Total time 1861 seconds. Total records 2992450.
+Records done 602950 (20,00%). Estimated time left 14259 sec
+Time spent on read 5,9687882 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,0469137 seconds
+Total time 1867 seconds. Total records 2992450.
+Records done 603950 (20,00%). Estimated time left 14440 sec
+Time spent on read 5,9531631 s. Time spent on write 0,0937506 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,0000384 seconds
+Total time 1873 seconds. Total records 2992450.
+Records done 604950 (20,00%). Estimated time left 14322 sec
+Time spent on read 5,9844133 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,0156635 seconds
+Total time 1879 seconds. Total records 2992450.
+Records done 605950 (20,00%). Estimated time left 14353 sec
+Time spent on read 6,0156635 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 5,8281623 seconds
+Total time 1885 seconds. Total records 2992450.
+Records done 606950 (20,00%). Estimated time left 13900 sec
+Time spent on read 5,8281623 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,0781639 seconds
+Total time 1891 seconds. Total records 2992450.
+Records done 607950 (20,00%). Estimated time left 14490 sec
+Time spent on read 6,0625388 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 5,9844133 seconds
+Total time 1897 seconds. Total records 2992450.
+Records done 608950 (20,00%). Estimated time left 14260 sec
+Time spent on read 5,9687882 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,0469137 seconds
+Total time 1903 seconds. Total records 2992450.
+Records done 609950 (20,00%). Estimated time left 14403 sec
+Time spent on read 6,0312886 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,1875396 seconds
+Total time 1909 seconds. Total records 2992450.
+Records done 610950 (20,00%). Estimated time left 14732 sec
+Time spent on read 6,1875396 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,0625388 seconds
+Total time 1915 seconds. Total records 2992450.
+Records done 611950 (20,00%). Estimated time left 14428 sec
+Time spent on read 6,0469137 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,2344149 seconds
+Total time 1921 seconds. Total records 2992450.
+Records done 612950 (20,00%). Estimated time left 14831 sec
+Time spent on read 6,2344149 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,093789 seconds
+Total time 1927 seconds. Total records 2992450.
+Records done 613950 (20,00%). Estimated time left 14491 sec
+Time spent on read 6,093789 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,093789 seconds
+Total time 1934 seconds. Total records 2992450.
+Records done 614950 (20,00%). Estimated time left 14484 sec
+Time spent on read 6,0469137 s. Time spent on write 0,0468753 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,6719177 seconds
+Total time 1940 seconds. Total records 2992450.
+Records done 615950 (20,00%). Estimated time left 15852 sec
+Time spent on read 6,6719177 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,1250392 seconds
+Total time 1946 seconds. Total records 2992450.
+Records done 616950 (20,00%). Estimated time left 14546 sec
+Time spent on read 6,1094141 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,4219161 seconds
+Total time 1953 seconds. Total records 2992450.
+Records done 617950 (20,00%). Estimated time left 15245 sec
+Time spent on read 6,4219161 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,1406643 seconds
+Total time 1959 seconds. Total records 2992450.
+Records done 618950 (20,00%). Estimated time left 14571 sec
+Time spent on read 6,1250392 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,2031647 seconds
+Total time 1965 seconds. Total records 2992450.
+Records done 619950 (20,00%). Estimated time left 14713 sec
+Time spent on read 6,2031647 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,1719145 seconds
+Total time 1971 seconds. Total records 2992450.
+Records done 620950 (20,00%). Estimated time left 14633 sec
+Time spent on read 6,1719145 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,25004 seconds
+Total time 1978 seconds. Total records 2992450.
+Records done 621950 (20,00%). Estimated time left 14812 sec
+Time spent on read 6,2344149 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,0312886 seconds
+Total time 1984 seconds. Total records 2992450.
+Records done 622950 (20,00%). Estimated time left 14288 sec
+Time spent on read 6,0156635 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,0781639 seconds
+Total time 1990 seconds. Total records 2992450.
+Records done 623950 (20,00%). Estimated time left 14393 sec
+Time spent on read 6,0625388 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,1719145 seconds
+Total time 1996 seconds. Total records 2992450.
+Records done 624950 (20,00%). Estimated time left 14608 sec
+Time spent on read 6,1719145 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,1406643 seconds
+Total time 2002 seconds. Total records 2992450.
+Records done 625950 (20,00%). Estimated time left 14528 sec
+Time spent on read 6,1250392 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,2656651 seconds
+Total time 2008 seconds. Total records 2992450.
+Records done 626950 (20,00%). Estimated time left 14818 sec
+Time spent on read 6,2656651 s. Time spent on write 0 s
+END===============================================20===========================================
+START=============================================20=============================================
+1000 records per 6,2187898 seconds
+Total time 2014 seconds. Total records 2992450.
+Records done 627950 (20,00%). Estimated time left 14701 sec
+Time spent on read 6,2031647 s. Time spent on write 0,0156251 s
+END===============================================20===========================================
+START=============================================25=============================================
+1000 records per 7,3281719 seconds
+Total time 2847 seconds. Total records 2992450.
+Records done 748950 (25,00%). Estimated time left 16437 sec
+Time spent on read 7,3281719 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,4219225 seconds
+Total time 2855 seconds. Total records 2992450.
+Records done 749950 (25,00%). Estimated time left 16639 sec
+Time spent on read 7,4062974 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,3281719 seconds
+Total time 2862 seconds. Total records 2992450.
+Records done 750950 (25,00%). Estimated time left 16422 sec
+Time spent on read 7,3281719 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,6094237 seconds
+Total time 2870 seconds. Total records 2992450.
+Records done 751950 (25,00%). Estimated time left 17045 sec
+Time spent on read 7,6094237 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,7656747 seconds
+Total time 2877 seconds. Total records 2992450.
+Records done 752950 (25,00%). Estimated time left 17387 sec
+Time spent on read 7,7656747 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,5937986 seconds
+Total time 2885 seconds. Total records 2992450.
+Records done 753950 (25,00%). Estimated time left 16994 sec
+Time spent on read 7,5781735 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,7812998 seconds
+Total time 2893 seconds. Total records 2992450.
+Records done 754950 (25,00%). Estimated time left 17406 sec
+Time spent on read 7,7656747 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,5937986 seconds
+Total time 2900 seconds. Total records 2992450.
+Records done 755950 (25,00%). Estimated time left 16979 sec
+Time spent on read 7,5781735 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,4531727 seconds
+Total time 2908 seconds. Total records 2992450.
+Records done 756950 (25,00%). Estimated time left 16657 sec
+Time spent on read 7,4375476 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,6719241 seconds
+Total time 2915 seconds. Total records 2992450.
+Records done 757950 (25,00%). Estimated time left 17139 sec
+Time spent on read 7,656299 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,6719241 seconds
+Total time 2923 seconds. Total records 2992450.
+Records done 758950 (25,00%). Estimated time left 17131 sec
+Time spent on read 7,6719241 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,6406739 seconds
+Total time 2931 seconds. Total records 2992450.
+Records done 759950 (25,00%). Estimated time left 17053 sec
+Time spent on read 7,6250488 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,7500496 seconds
+Total time 2939 seconds. Total records 2992450.
+Records done 760950 (25,00%). Estimated time left 17290 sec
+Time spent on read 7,7500496 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,81255 seconds
+Total time 2946 seconds. Total records 2992450.
+Records done 761950 (25,00%). Estimated time left 17421 sec
+Time spent on read 7,81255 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,656299 seconds
+Total time 2954 seconds. Total records 2992450.
+Records done 762950 (25,00%). Estimated time left 17065 sec
+Time spent on read 7,6406739 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,8281751 seconds
+Total time 2962 seconds. Total records 2992450.
+Records done 763950 (25,00%). Estimated time left 17441 sec
+Time spent on read 7,81255 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,7187994 seconds
+Total time 2970 seconds. Total records 2992450.
+Records done 764950 (25,00%). Estimated time left 17189 sec
+Time spent on read 7,7031743 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,6094237 seconds
+Total time 2977 seconds. Total records 2992450.
+Records done 765950 (25,00%). Estimated time left 16938 sec
+Time spent on read 7,6094237 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,7969249 seconds
+Total time 2985 seconds. Total records 2992450.
+Records done 766950 (25,00%). Estimated time left 17348 sec
+Time spent on read 7,7812998 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,8281751 seconds
+Total time 2993 seconds. Total records 2992450.
+Records done 767950 (25,00%). Estimated time left 17409 sec
+Time spent on read 7,81255 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 8,0781767 seconds
+Total time 3001 seconds. Total records 2992450.
+Records done 768950 (25,00%). Estimated time left 17957 sec
+Time spent on read 8,0625516 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 8,437554 seconds
+Total time 3009 seconds. Total records 2992450.
+Records done 769950 (25,00%). Estimated time left 18748 sec
+Time spent on read 8,4219289 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 8,0156763 seconds
+Total time 3017 seconds. Total records 2992450.
+Records done 770950 (25,00%). Estimated time left 17802 sec
+Time spent on read 8,0000512 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 8,6875556 seconds
+Total time 3026 seconds. Total records 2992450.
+Records done 771950 (25,00%). Estimated time left 19286 sec
+Time spent on read 8,6875556 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 8,1563022 seconds
+Total time 3034 seconds. Total records 2992450.
+Records done 772950 (25,00%). Estimated time left 18098 sec
+Time spent on read 8,1563022 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 8,1875524 seconds
+Total time 3042 seconds. Total records 2992450.
+Records done 773950 (25,00%). Estimated time left 18159 sec
+Time spent on read 8,1875524 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,8438002 seconds
+Total time 3050 seconds. Total records 2992450.
+Records done 774950 (25,00%). Estimated time left 17389 sec
+Time spent on read 7,8281751 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 7,8594253 seconds
+Total time 3058 seconds. Total records 2992450.
+Records done 775950 (25,00%). Estimated time left 17416 sec
+Time spent on read 7,8594253 s. Time spent on write 0 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 8,4219289 seconds
+Total time 3067 seconds. Total records 2992450.
+Records done 776950 (25,00%). Estimated time left 18654 sec
+Time spent on read 8,4063038 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================25=============================================
+1000 records per 8,1406771 seconds
+Total time 3075 seconds. Total records 2992450.
+Records done 777950 (25,00%). Estimated time left 18023 sec
+Time spent on read 8,125052 s. Time spent on write 0,0156251 s
+END===============================================25===========================================
+START=============================================30=============================================
+1000 records per 9,687562 seconds
+Total time 4186 seconds. Total records 2992450.
+Records done 897950 (30,00%). Estimated time left 20285 sec
+Time spent on read 9,6719369 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,1563086 seconds
+Total time 4195 seconds. Total records 2992450.
+Records done 898950 (30,00%). Estimated time left 19164 sec
+Time spent on read 9,1563086 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,1875588 seconds
+Total time 4205 seconds. Total records 2992450.
+Records done 899950 (30,00%). Estimated time left 19220 sec
+Time spent on read 9,1719337 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,0938082 seconds
+Total time 4214 seconds. Total records 2992450.
+Records done 900950 (30,00%). Estimated time left 19015 sec
+Time spent on read 9,0938082 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,2031839 seconds
+Total time 4223 seconds. Total records 2992450.
+Records done 901950 (30,00%). Estimated time left 19234 sec
+Time spent on read 9,2031839 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,1875652 seconds
+Total time 4233 seconds. Total records 2992450.
+Records done 902950 (30,00%). Estimated time left 21281 sec
+Time spent on read 10,1719401 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,2969409 seconds
+Total time 4243 seconds. Total records 2992450.
+Records done 903950 (30,00%). Estimated time left 21500 sec
+Time spent on read 10,2969409 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,2344405 seconds
+Total time 4254 seconds. Total records 2992450.
+Records done 904950 (30,00%). Estimated time left 21359 sec
+Time spent on read 10,2344405 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,2344405 seconds
+Total time 4264 seconds. Total records 2992450.
+Records done 905950 (30,00%). Estimated time left 21349 sec
+Time spent on read 10,2344405 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,687562 seconds
+Total time 4274 seconds. Total records 2992450.
+Records done 906950 (30,00%). Estimated time left 20198 sec
+Time spent on read 9,687562 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,4219417 seconds
+Total time 4284 seconds. Total records 2992450.
+Records done 907950 (30,00%). Estimated time left 21719 sec
+Time spent on read 10,4219417 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,5156859 seconds
+Total time 4294 seconds. Total records 2992450.
+Records done 908950 (30,00%). Estimated time left 19821 sec
+Time spent on read 9,5156859 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,7656875 seconds
+Total time 4303 seconds. Total records 2992450.
+Records done 909950 (30,00%). Estimated time left 20332 sec
+Time spent on read 9,7656875 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 11,7031999 seconds
+Total time 4315 seconds. Total records 2992450.
+Records done 910950 (30,00%). Estimated time left 24354 sec
+Time spent on read 11,7031999 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,4219353 seconds
+Total time 4324 seconds. Total records 2992450.
+Records done 911950 (30,00%). Estimated time left 19597 sec
+Time spent on read 9,4219353 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,1406835 seconds
+Total time 4334 seconds. Total records 2992450.
+Records done 912950 (30,00%). Estimated time left 19003 sec
+Time spent on read 9,1250584 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,3594349 seconds
+Total time 4343 seconds. Total records 2992450.
+Records done 913950 (30,00%). Estimated time left 19448 sec
+Time spent on read 9,3438098 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,0938082 seconds
+Total time 4352 seconds. Total records 2992450.
+Records done 914950 (30,00%). Estimated time left 18887 sec
+Time spent on read 9,0781831 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,2813094 seconds
+Total time 4361 seconds. Total records 2992450.
+Records done 915950 (30,00%). Estimated time left 19267 sec
+Time spent on read 9,2656843 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,5000672 seconds
+Total time 4372 seconds. Total records 2992450.
+Records done 916950 (30,00%). Estimated time left 21787 sec
+Time spent on read 10,4844421 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,5000672 seconds
+Total time 4382 seconds. Total records 2992450.
+Records done 917950 (30,00%). Estimated time left 21777 sec
+Time spent on read 10,4844421 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,9844389 seconds
+Total time 4392 seconds. Total records 2992450.
+Records done 918950 (30,00%). Estimated time left 20697 sec
+Time spent on read 9,9844389 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,2500656 seconds
+Total time 4403 seconds. Total records 2992450.
+Records done 919950 (30,00%). Estimated time left 21238 sec
+Time spent on read 10,2344405 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,7188122 seconds
+Total time 4412 seconds. Total records 2992450.
+Records done 920950 (30,00%). Estimated time left 20127 sec
+Time spent on read 9,7188122 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,625068 seconds
+Total time 4423 seconds. Total records 2992450.
+Records done 921950 (30,00%). Estimated time left 21993 sec
+Time spent on read 10,6094429 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,5938114 seconds
+Total time 4432 seconds. Total records 2992450.
+Records done 922950 (30,00%). Estimated time left 19849 sec
+Time spent on read 9,5938114 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,1094397 seconds
+Total time 4443 seconds. Total records 2992450.
+Records done 923950 (30,00%). Estimated time left 20906 sec
+Time spent on read 10,1094397 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 12,0782023 seconds
+Total time 4455 seconds. Total records 2992450.
+Records done 924950 (30,00%). Estimated time left 24965 sec
+Time spent on read 12,0625772 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 10,625068 seconds
+Total time 4465 seconds. Total records 2992450.
+Records done 925950 (30,00%). Estimated time left 21951 sec
+Time spent on read 10,625068 s. Time spent on write 0 s
+END===============================================30===========================================
+START=============================================30=============================================
+1000 records per 9,7500624 seconds
+Total time 4475 seconds. Total records 2992450.
+Records done 926950 (30,00%). Estimated time left 20133 sec
+Time spent on read 9,7344373 s. Time spent on write 0,0156251 s
+END===============================================30===========================================
+START=============================================35=============================================
+1000 records per 10,468817 seconds
+Total time 188 seconds. Total records 2992450.
+Records done 1047500 (35,00%). Estimated time left 20351 sec
+Time spent on read 10,4531919 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,3750664 seconds
+Total time 198 seconds. Total records 2992450.
+Records done 1048500 (35,00%). Estimated time left 20158 sec
+Time spent on read 10,3750664 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,5781927 seconds
+Total time 209 seconds. Total records 2992450.
+Records done 1049500 (35,00%). Estimated time left 20542 sec
+Time spent on read 10,5625676 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,9844453 seconds
+Total time 220 seconds. Total records 2992450.
+Records done 1050500 (35,00%). Estimated time left 21320 sec
+Time spent on read 10,9844453 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 12,4063294 seconds
+Total time 232 seconds. Total records 2992450.
+Records done 1051500 (35,00%). Estimated time left 24068 sec
+Time spent on read 12,4063294 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,2656971 seconds
+Total time 243 seconds. Total records 2992450.
+Records done 1052500 (35,00%). Estimated time left 21844 sec
+Time spent on read 11,2656971 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,8281943 seconds
+Total time 254 seconds. Total records 2992450.
+Records done 1053500 (35,00%). Estimated time left 20985 sec
+Time spent on read 10,8125692 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,3125724 seconds
+Total time 266 seconds. Total records 2992450.
+Records done 1054500 (35,00%). Estimated time left 21912 sec
+Time spent on read 11,2969473 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,9688202 seconds
+Total time 277 seconds. Total records 2992450.
+Records done 1055500 (35,00%). Estimated time left 21235 sec
+Time spent on read 10,9531951 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,3125724 seconds
+Total time 288 seconds. Total records 2992450.
+Records done 1056500 (35,00%). Estimated time left 21889 sec
+Time spent on read 11,2969473 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,5938242 seconds
+Total time 299 seconds. Total records 2992450.
+Records done 1057500 (35,00%). Estimated time left 22422 sec
+Time spent on read 11,5469489 s. Time spent on write 0,0468753 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,1250712 seconds
+Total time 311 seconds. Total records 2992450.
+Records done 1058500 (35,00%). Estimated time left 21504 sec
+Time spent on read 11,1094461 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,93757 seconds
+Total time 322 seconds. Total records 2992450.
+Records done 1059500 (35,00%). Estimated time left 21131 sec
+Time spent on read 10,93757 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,5625676 seconds
+Total time 332 seconds. Total records 2992450.
+Records done 1060500 (35,00%). Estimated time left 20396 sec
+Time spent on read 10,5625676 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,6875684 seconds
+Total time 343 seconds. Total records 2992450.
+Records done 1061500 (35,00%). Estimated time left 20627 sec
+Time spent on read 10,6719433 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,8125692 seconds
+Total time 354 seconds. Total records 2992450.
+Records done 1062500 (35,00%). Estimated time left 20857 sec
+Time spent on read 10,7969441 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,1094461 seconds
+Total time 365 seconds. Total records 2992450.
+Records done 1063500 (35,00%). Estimated time left 21419 sec
+Time spent on read 11,1094461 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 10,6094429 seconds
+Total time 375 seconds. Total records 2992450.
+Records done 1064500 (35,00%). Estimated time left 20444 sec
+Time spent on read 10,5938178 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 12,0782023 seconds
+Total time 387 seconds. Total records 2992450.
+Records done 1065500 (35,00%). Estimated time left 23262 sec
+Time spent on read 12,0782023 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,6250744 seconds
+Total time 399 seconds. Total records 2992450.
+Records done 1066500 (35,00%). Estimated time left 22378 sec
+Time spent on read 11,6094493 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,7500752 seconds
+Total time 11 seconds. Total records 2992450.
+Records done 1067600 (35,00%). Estimated time left 22607 sec
+Time spent on read 11,7344501 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 12,1563278 seconds
+Total time 23 seconds. Total records 2992450.
+Records done 1068600 (35,00%). Estimated time left 23376 sec
+Time spent on read 12,1563278 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 12,0469521 seconds
+Total time 35 seconds. Total records 2992450.
+Records done 1069600 (35,00%). Estimated time left 23154 sec
+Time spent on read 12,0469521 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,7969505 seconds
+Total time 47 seconds. Total records 2992450.
+Records done 1070600 (35,00%). Estimated time left 22661 sec
+Time spent on read 11,7813254 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,6094493 seconds
+Total time 59 seconds. Total records 2992450.
+Records done 1071600 (35,00%). Estimated time left 22290 sec
+Time spent on read 11,5938242 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,1719465 seconds
+Total time 70 seconds. Total records 2992450.
+Records done 1072600 (35,00%). Estimated time left 21438 sec
+Time spent on read 11,1563214 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,2188218 seconds
+Total time 81 seconds. Total records 2992450.
+Records done 1073600 (35,00%). Estimated time left 21517 sec
+Time spent on read 11,2188218 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,562574 seconds
+Total time 93 seconds. Total records 2992450.
+Records done 1074600 (35,00%). Estimated time left 22165 sec
+Time spent on read 11,5469489 s. Time spent on write 0,0156251 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,0313206 seconds
+Total time 104 seconds. Total records 2992450.
+Records done 1075600 (35,00%). Estimated time left 21136 sec
+Time spent on read 11,0313206 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================35=============================================
+1000 records per 11,9219513 seconds
+Total time 116 seconds. Total records 2992450.
+Records done 1076600 (35,00%). Estimated time left 22830 sec
+Time spent on read 11,9219513 s. Time spent on write 0 s
+END===============================================35===========================================
+START=============================================40=============================================
+1000 records per 13,5000864 seconds
+Total time 1560 seconds. Total records 2992450.
+Records done 1197600 (40,00%). Estimated time left 24219 sec
+Time spent on read 13,4844613 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,1250776 seconds
+Total time 1572 seconds. Total records 2992450.
+Records done 1198600 (40,00%). Estimated time left 21740 sec
+Time spent on read 12,1250776 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,2032031 seconds
+Total time 1584 seconds. Total records 2992450.
+Records done 1199600 (40,00%). Estimated time left 21868 sec
+Time spent on read 12,187578 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,1719529 seconds
+Total time 1596 seconds. Total records 2992450.
+Records done 1200600 (40,00%). Estimated time left 21799 sec
+Time spent on read 12,1563278 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,1563278 seconds
+Total time 1608 seconds. Total records 2992450.
+Records done 1201600 (40,00%). Estimated time left 21759 sec
+Time spent on read 12,1407027 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 11,9375764 seconds
+Total time 1620 seconds. Total records 2992450.
+Records done 1202600 (40,00%). Estimated time left 21356 sec
+Time spent on read 11,9219513 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,6407059 seconds
+Total time 1633 seconds. Total records 2992450.
+Records done 1203600 (40,00%). Estimated time left 22601 sec
+Time spent on read 12,6407059 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 11,8907011 seconds
+Total time 1645 seconds. Total records 2992450.
+Records done 1204600 (40,00%). Estimated time left 21248 sec
+Time spent on read 11,8907011 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,4219609 seconds
+Total time 1658 seconds. Total records 2992450.
+Records done 1205600 (40,00%). Estimated time left 23971 sec
+Time spent on read 13,4063358 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,2032095 seconds
+Total time 1671 seconds. Total records 2992450.
+Records done 1206600 (40,00%). Estimated time left 23567 sec
+Time spent on read 13,2032095 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,2032031 seconds
+Total time 1684 seconds. Total records 2992450.
+Records done 1207600 (40,00%). Estimated time left 21770 sec
+Time spent on read 12,2032031 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,6407123 seconds
+Total time 1697 seconds. Total records 2992450.
+Records done 1208600 (40,00%). Estimated time left 24321 sec
+Time spent on read 13,6250872 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,3125788 seconds
+Total time 1710 seconds. Total records 2992450.
+Records done 1209600 (40,00%). Estimated time left 21941 sec
+Time spent on read 12,2969537 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,9219577 seconds
+Total time 1722 seconds. Total records 2992450.
+Records done 1210600 (40,00%). Estimated time left 23014 sec
+Time spent on read 12,9219577 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,8907075 seconds
+Total time 1735 seconds. Total records 2992450.
+Records done 1211600 (40,00%). Estimated time left 22945 sec
+Time spent on read 12,8750824 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,50008 seconds
+Total time 1748 seconds. Total records 2992450.
+Records done 1212600 (40,00%). Estimated time left 22237 sec
+Time spent on read 12,4844549 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,1094525 seconds
+Total time 1760 seconds. Total records 2992450.
+Records done 1213600 (40,00%). Estimated time left 21530 sec
+Time spent on read 12,1094525 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,1563342 seconds
+Total time 1773 seconds. Total records 2992450.
+Records done 1214600 (40,00%). Estimated time left 23378 sec
+Time spent on read 13,1563342 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,4688298 seconds
+Total time 1786 seconds. Total records 2992450.
+Records done 1215600 (40,00%). Estimated time left 22144 sec
+Time spent on read 12,4532047 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,4219545 seconds
+Total time 1798 seconds. Total records 2992450.
+Records done 1216600 (40,00%). Estimated time left 22048 sec
+Time spent on read 12,4219545 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,7032127 seconds
+Total time 1812 seconds. Total records 2992450.
+Records done 1217600 (40,00%). Estimated time left 24309 sec
+Time spent on read 13,6875876 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,9219641 seconds
+Total time 1826 seconds. Total records 2992450.
+Records done 1218600 (40,00%). Estimated time left 24683 sec
+Time spent on read 13,9219641 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,5157115 seconds
+Total time 1839 seconds. Total records 2992450.
+Records done 1219600 (40,00%). Estimated time left 23949 sec
+Time spent on read 13,5000864 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,5625804 seconds
+Total time 1852 seconds. Total records 2992450.
+Records done 1220600 (40,00%). Estimated time left 22248 sec
+Time spent on read 12,5625804 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,125084 seconds
+Total time 1865 seconds. Total records 2992450.
+Records done 1221600 (40,00%). Estimated time left 23231 sec
+Time spent on read 13,125084 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,5625804 seconds
+Total time 1877 seconds. Total records 2992450.
+Records done 1222600 (40,00%). Estimated time left 22223 sec
+Time spent on read 12,5469553 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,0313334 seconds
+Total time 1890 seconds. Total records 2992450.
+Records done 1223600 (40,00%). Estimated time left 23039 sec
+Time spent on read 13,0313334 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 13,6875876 seconds
+Total time 1904 seconds. Total records 2992450.
+Records done 1224600 (40,00%). Estimated time left 24185 sec
+Time spent on read 13,6875876 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,5469553 seconds
+Total time 1917 seconds. Total records 2992450.
+Records done 1225600 (40,00%). Estimated time left 22157 sec
+Time spent on read 12,5469553 s. Time spent on write 0 s
+END===============================================40===========================================
+START=============================================40=============================================
+1000 records per 12,2344533 seconds
+Total time 1929 seconds. Total records 2992450.
+Records done 1226600 (40,00%). Estimated time left 21593 sec
+Time spent on read 12,2188282 s. Time spent on write 0,0156251 s
+END===============================================40===========================================
+START=============================================45=============================================
+1000 records per 36,9689866 seconds
+Total time 3609 seconds. Total records 2992450.
+Records done 1347600 (45,00%). Estimated time left 60777 sec
+Time spent on read 36,9689866 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,4688362 seconds
+Total time 3622 seconds. Total records 2992450.
+Records done 1348600 (45,00%). Estimated time left 22129 sec
+Time spent on read 13,4688362 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,7188378 seconds
+Total time 3636 seconds. Total records 2992450.
+Records done 1349600 (45,00%). Estimated time left 22526 sec
+Time spent on read 13,7032127 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,4063358 seconds
+Total time 3649 seconds. Total records 2992450.
+Records done 1350600 (45,00%). Estimated time left 21999 sec
+Time spent on read 13,3907107 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,4688362 seconds
+Total time 3663 seconds. Total records 2992450.
+Records done 1351600 (45,00%). Estimated time left 22088 sec
+Time spent on read 13,4688362 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,0782151 seconds
+Total time 3677 seconds. Total records 2992450.
+Records done 1352600 (45,00%). Estimated time left 23074 sec
+Time spent on read 14,0782151 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,531343 seconds
+Total time 3691 seconds. Total records 2992450.
+Records done 1353600 (45,00%). Estimated time left 23802 sec
+Time spent on read 14,531343 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,7500944 seconds
+Total time 3706 seconds. Total records 2992450.
+Records done 1354600 (45,00%). Estimated time left 24145 sec
+Time spent on read 14,7344693 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,593837 seconds
+Total time 3720 seconds. Total records 2992450.
+Records done 1355600 (45,00%). Estimated time left 22239 sec
+Time spent on read 13,593837 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,9688394 seconds
+Total time 3734 seconds. Total records 2992450.
+Records done 1356600 (45,00%). Estimated time left 22839 sec
+Time spent on read 13,9532143 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,9688394 seconds
+Total time 3748 seconds. Total records 2992450.
+Records done 1357600 (45,00%). Estimated time left 22825 sec
+Time spent on read 13,9532143 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,5469681 seconds
+Total time 3762 seconds. Total records 2992450.
+Records done 1358600 (45,00%). Estimated time left 23755 sec
+Time spent on read 14,531343 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,8750952 seconds
+Total time 3777 seconds. Total records 2992450.
+Records done 1359600 (45,00%). Estimated time left 24276 sec
+Time spent on read 14,8594701 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,5625932 seconds
+Total time 3792 seconds. Total records 2992450.
+Records done 1360600 (45,00%). Estimated time left 23751 sec
+Time spent on read 14,5469681 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,8125884 seconds
+Total time 3806 seconds. Total records 2992450.
+Records done 1361600 (45,00%). Estimated time left 22514 sec
+Time spent on read 13,7969633 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,6563374 seconds
+Total time 3819 seconds. Total records 2992450.
+Records done 1362600 (45,00%). Estimated time left 22246 sec
+Time spent on read 13,6407123 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,8438386 seconds
+Total time 3833 seconds. Total records 2992450.
+Records done 1363600 (45,00%). Estimated time left 22537 sec
+Time spent on read 13,8282135 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,9219641 seconds
+Total time 3847 seconds. Total records 2992450.
+Records done 1364600 (45,00%). Estimated time left 22651 sec
+Time spent on read 13,9219641 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,7344629 seconds
+Total time 3861 seconds. Total records 2992450.
+Records done 1365600 (45,00%). Estimated time left 22332 sec
+Time spent on read 13,7344629 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,7344629 seconds
+Total time 3874 seconds. Total records 2992450.
+Records done 1366600 (45,00%). Estimated time left 22318 sec
+Time spent on read 13,7344629 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,0469649 seconds
+Total time 3888 seconds. Total records 2992450.
+Records done 1367600 (45,00%). Estimated time left 22812 sec
+Time spent on read 14,0313398 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,1407155 seconds
+Total time 3903 seconds. Total records 2992450.
+Records done 1368600 (45,00%). Estimated time left 22950 sec
+Time spent on read 14,1407155 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,8125884 seconds
+Total time 3916 seconds. Total records 2992450.
+Records done 1369600 (45,00%). Estimated time left 22404 sec
+Time spent on read 13,7969633 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,9532207 seconds
+Total time 3931 seconds. Total records 2992450.
+Records done 1370600 (45,00%). Estimated time left 24239 sec
+Time spent on read 14,9532207 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,5000928 seconds
+Total time 3946 seconds. Total records 2992450.
+Records done 1371600 (45,00%). Estimated time left 23490 sec
+Time spent on read 14,5000928 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 13,9688394 seconds
+Total time 3960 seconds. Total records 2992450.
+Records done 1372600 (45,00%). Estimated time left 22615 sec
+Time spent on read 13,9532143 s. Time spent on write 0,0156251 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,5157179 seconds
+Total time 3974 seconds. Total records 2992450.
+Records done 1373600 (45,00%). Estimated time left 23486 sec
+Time spent on read 14,5157179 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,375092 seconds
+Total time 3989 seconds. Total records 2992450.
+Records done 1374600 (45,00%). Estimated time left 23244 sec
+Time spent on read 14,375092 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================45=============================================
+1000 records per 14,8907203 seconds
+Total time 4004 seconds. Total records 2992450.
+Records done 1375600 (45,00%). Estimated time left 24063 sec
+Time spent on read 14,8907203 s. Time spent on write 0 s
+END===============================================45===========================================
+START=============================================50=============================================
+1000 records per 15,2813478 seconds
+Total time 5828 seconds. Total records 2992450.
+Records done 1496600 (50,00%). Estimated time left 22845 sec
+Time spent on read 15,2813478 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 16,0626028 seconds
+Total time 5844 seconds. Total records 2992450.
+Records done 1497600 (50,00%). Estimated time left 23997 sec
+Time spent on read 16,0469777 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 17,2813606 seconds
+Total time 5861 seconds. Total records 2992450.
+Records done 1498600 (50,00%). Estimated time left 25801 sec
+Time spent on read 17,2813606 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,6094749 seconds
+Total time 5877 seconds. Total records 2992450.
+Records done 1499600 (50,00%). Estimated time left 23289 sec
+Time spent on read 15,6094749 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,312598 seconds
+Total time 5892 seconds. Total records 2992450.
+Records done 1500600 (50,00%). Estimated time left 22831 sec
+Time spent on read 15,312598 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 16,4844805 seconds
+Total time 5909 seconds. Total records 2992450.
+Records done 1501600 (50,00%). Estimated time left 24561 sec
+Time spent on read 16,4688554 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,8907267 seconds
+Total time 5925 seconds. Total records 2992450.
+Records done 1502600 (50,00%). Estimated time left 23661 sec
+Time spent on read 15,8751016 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 18,7188698 seconds
+Total time 5943 seconds. Total records 2992450.
+Records done 1503600 (50,00%). Estimated time left 27853 sec
+Time spent on read 18,7032447 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,5157243 seconds
+Total time 5959 seconds. Total records 2992450.
+Records done 1504600 (50,00%). Estimated time left 23071 sec
+Time spent on read 15,5157243 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,937602 seconds
+Total time 5975 seconds. Total records 2992450.
+Records done 1505600 (50,00%). Estimated time left 23683 sec
+Time spent on read 15,9219769 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,8438514 seconds
+Total time 5991 seconds. Total records 2992450.
+Records done 1506600 (50,00%). Estimated time left 23528 sec
+Time spent on read 15,8438514 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 17,2813606 seconds
+Total time 6008 seconds. Total records 2992450.
+Records done 1507600 (50,00%). Estimated time left 25645 sec
+Time spent on read 17,2657355 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,0625964 seconds
+Total time 6023 seconds. Total records 2992450.
+Records done 1508600 (50,00%). Estimated time left 22337 sec
+Time spent on read 15,0625964 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,4219737 seconds
+Total time 6038 seconds. Total records 2992450.
+Records done 1509600 (50,00%). Estimated time left 22855 sec
+Time spent on read 15,4219737 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,4375988 seconds
+Total time 6054 seconds. Total records 2992450.
+Records done 1510600 (50,00%). Estimated time left 22863 sec
+Time spent on read 15,4219737 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,1250968 seconds
+Total time 6069 seconds. Total records 2992450.
+Records done 1511600 (50,00%). Estimated time left 22385 sec
+Time spent on read 15,1250968 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 14,8907203 seconds
+Total time 6084 seconds. Total records 2992450.
+Records done 1512600 (50,00%). Estimated time left 22023 sec
+Time spent on read 14,8750952 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,1875972 seconds
+Total time 6099 seconds. Total records 2992450.
+Records done 1513600 (50,00%). Estimated time left 22447 sec
+Time spent on read 15,1719721 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,2188474 seconds
+Total time 6114 seconds. Total records 2992450.
+Records done 1514600 (50,00%). Estimated time left 22478 sec
+Time spent on read 15,2188474 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 16,250104 seconds
+Total time 6130 seconds. Total records 2992450.
+Records done 1515600 (50,00%). Estimated time left 23985 sec
+Time spent on read 16,2344789 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 16,2969793 seconds
+Total time 6147 seconds. Total records 2992450.
+Records done 1516600 (50,00%). Estimated time left 24038 sec
+Time spent on read 16,2969793 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,3282231 seconds
+Total time 6162 seconds. Total records 2992450.
+Records done 1517600 (50,00%). Estimated time left 22593 sec
+Time spent on read 15,3282231 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,3594733 seconds
+Total time 6177 seconds. Total records 2992450.
+Records done 1518600 (50,00%). Estimated time left 22624 sec
+Time spent on read 15,3594733 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 16,0626028 seconds
+Total time 6194 seconds. Total records 2992450.
+Records done 1519600 (50,00%). Estimated time left 23644 sec
+Time spent on read 16,0626028 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,8282263 seconds
+Total time 6209 seconds. Total records 2992450.
+Records done 1520600 (50,00%). Estimated time left 23283 sec
+Time spent on read 15,8126012 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,2500976 seconds
+Total time 6225 seconds. Total records 2992450.
+Records done 1521600 (50,00%). Estimated time left 22417 sec
+Time spent on read 15,2344725 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 36,2971073 seconds
+Total time 6261 seconds. Total records 2992450.
+Records done 1522600 (50,00%). Estimated time left 53320 sec
+Time spent on read 36,2971073 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 16,6407315 seconds
+Total time 6278 seconds. Total records 2992450.
+Records done 1523600 (50,00%). Estimated time left 24428 sec
+Time spent on read 16,6251064 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,5469745 seconds
+Total time 6293 seconds. Total records 2992450.
+Records done 1524600 (50,00%). Estimated time left 22807 sec
+Time spent on read 15,5469745 s. Time spent on write 0 s
+END===============================================50===========================================
+START=============================================50=============================================
+1000 records per 15,0782215 seconds
+Total time 6308 seconds. Total records 2992450.
+Records done 1525600 (50,00%). Estimated time left 22104 sec
+Time spent on read 15,0625964 s. Time spent on write 0,0156251 s
+END===============================================50===========================================
+START=============================================55=============================================
+1000 records per 16,640625 seconds
+Total time 400 seconds. Total records 2992450.
+Records done 1646500 (55,00%). Estimated time left 22381 sec
+Time spent on read 16,625 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 16,90625 seconds
+Total time 417 seconds. Total records 2992450.
+Records done 1647500 (55,00%). Estimated time left 22722 sec
+Time spent on read 16,890625 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 16,46875 seconds
+Total time 434 seconds. Total records 2992450.
+Records done 1648500 (55,00%). Estimated time left 22117 sec
+Time spent on read 16,453125 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,734375 seconds
+Total time 451 seconds. Total records 2992450.
+Records done 1649500 (55,00%). Estimated time left 23799 sec
+Time spent on read 17,71875 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,34375 seconds
+Total time 469 seconds. Total records 2992450.
+Records done 1650500 (55,00%). Estimated time left 23257 sec
+Time spent on read 17,328125 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,578125 seconds
+Total time 486 seconds. Total records 2992450.
+Records done 1651500 (55,00%). Estimated time left 23554 sec
+Time spent on read 17,578125 s. Time spent on write 0 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,515625 seconds
+Total time 504 seconds. Total records 2992450.
+Records done 1652500 (55,00%). Estimated time left 23453 sec
+Time spent on read 17,5 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 16,9375 seconds
+Total time 521 seconds. Total records 2992450.
+Records done 1653500 (55,00%). Estimated time left 22662 sec
+Time spent on read 16,9375 s. Time spent on write 0 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,125 seconds
+Total time 538 seconds. Total records 2992450.
+Records done 1654500 (55,00%). Estimated time left 22896 sec
+Time spent on read 17,109375 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,5625 seconds
+Total time 555 seconds. Total records 2992450.
+Records done 1655500 (55,00%). Estimated time left 23463 sec
+Time spent on read 17,5625 s. Time spent on write 0 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 16,8125 seconds
+Total time 572 seconds. Total records 2992450.
+Records done 1656500 (55,00%). Estimated time left 22444 sec
+Time spent on read 16,8125 s. Time spent on write 0 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,109375 seconds
+Total time 589 seconds. Total records 2992450.
+Records done 1657500 (55,00%). Estimated time left 22823 sec
+Time spent on read 17,109375 s. Time spent on write 0 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,703125 seconds
+Total time 607 seconds. Total records 2992450.
+Records done 1658500 (55,00%). Estimated time left 23598 sec
+Time spent on read 17,703125 s. Time spent on write 0 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,90625 seconds
+Total time 625 seconds. Total records 2992450.
+Records done 1659500 (55,00%). Estimated time left 23851 sec
+Time spent on read 17,890625 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,390625 seconds
+Total time 642 seconds. Total records 2992450.
+Records done 1660500 (55,00%). Estimated time left 23146 sec
+Time spent on read 17,390625 s. Time spent on write 0 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 16,8125 seconds
+Total time 659 seconds. Total records 2992450.
+Records done 1661500 (55,00%). Estimated time left 22360 sec
+Time spent on read 16,796875 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 16,8125 seconds
+Total time 676 seconds. Total records 2992450.
+Records done 1662500 (55,00%). Estimated time left 22343 sec
+Time spent on read 16,796875 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,34375 seconds
+Total time 693 seconds. Total records 2992450.
+Records done 1663500 (55,00%). Estimated time left 23032 sec
+Time spent on read 17,328125 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,78125 seconds
+Total time 711 seconds. Total records 2992450.
+Records done 1664500 (55,00%). Estimated time left 23595 sec
+Time spent on read 17,765625 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,296875 seconds
+Total time 728 seconds. Total records 2992450.
+Records done 1665500 (55,00%). Estimated time left 22935 sec
+Time spent on read 17,28125 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,484375 seconds
+Total time 746 seconds. Total records 2992450.
+Records done 1666500 (55,00%). Estimated time left 23166 sec
+Time spent on read 17,46875 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,71875 seconds
+Total time 764 seconds. Total records 2992450.
+Records done 1667500 (55,00%). Estimated time left 23459 sec
+Time spent on read 17,71875 s. Time spent on write 0 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,25 seconds
+Total time 781 seconds. Total records 2992450.
+Records done 1668500 (55,00%). Estimated time left 22821 sec
+Time spent on read 17,234375 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,1875 seconds
+Total time 798 seconds. Total records 2992450.
+Records done 1669500 (55,00%). Estimated time left 22721 sec
+Time spent on read 17,1875 s. Time spent on write 0 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,078125 seconds
+Total time 815 seconds. Total records 2992450.
+Records done 1670500 (55,00%). Estimated time left 22560 sec
+Time spent on read 17,0625 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 18,515625 seconds
+Total time 834 seconds. Total records 2992450.
+Records done 1671500 (55,00%). Estimated time left 24440 sec
+Time spent on read 18,5 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 16,9375 seconds
+Total time 851 seconds. Total records 2992450.
+Records done 1672500 (55,00%). Estimated time left 22340 sec
+Time spent on read 16,921875 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,09375 seconds
+Total time 868 seconds. Total records 2992450.
+Records done 1673500 (55,00%). Estimated time left 22529 sec
+Time spent on read 17,078125 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,015625 seconds
+Total time 885 seconds. Total records 2992450.
+Records done 1674500 (55,00%). Estimated time left 22409 sec
+Time spent on read 17 s. Time spent on write 0,015625 s
+END===============================================55===========================================
+START=============================================55=============================================
+1000 records per 17,65625 seconds
+Total time 902 seconds. Total records 2992450.
+Records done 1675500 (55,00%). Estimated time left 23235 sec
+Time spent on read 17,640625 s. Time spent on write 0,015625 s
+END===============================================55===========================================

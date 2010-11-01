@@ -1,0 +1,60 @@
+2010-09-20T17:12:46.8892500+02:00 AM IP Ping responce recieved: Error (), Status (Success), Canceled (False), obj.m_uiNoResponseCounter (0);
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 32 A2 BF 02 00 1E 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:08:49.3111250+02:00 Unspecified: ServicesController static constructor
+ApplicationBase = 'C:\OMS\APL\OMSService\'
+ApplicationName = 'OMSService.exe'
+ConfigurationFile = 'C:\OMS\APL\OMSService\OMSService.exe.config'
+CallingAssembly = [FullName = 'Telco.EnterpriseLibrary.ServiceModel, Version=2.0.3912.25166, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\Telco.EnterpriseLibrary.ServiceModel.dll']
+EntryAssembly = [FullName = 'OMSService, Version=1.9.13.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\OMSService.exe']
+
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 33 A2 BF 02 00 1F 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 34 A2 BF 02 00 20 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 35 A2 BF 02 00 21 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 36 A2 BF 02 00 22 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 37 A2 BF 02 00 23 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 38 A2 BF 02 00 24 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 36 A2 BF 02 00 22 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 37 A2 BF 02 00 23 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 36 A2 BF 02 00 22 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 37 A2 BF 02 00 23 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 36 A2 BF 02 00 22 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 37 A2 BF 02 00 23 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 36 A2 BF 02 00 22 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 37 A2 BF 02 00 23 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 36 A2 BF 02 00 22 0C 01 07 02 01 43 00 Fail
+
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 37 A2 BF 02 00 23 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 33 A2 BF 02 00 1F 0C 01 07 02 01 43 00 Fail
+
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 34 A2 BF 02 00 20 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 35 A2 BF 02 00 21 0C 01 07 02 01 43 00 Fail
+2010-09-20T17:08:49.3111250+02:00 Unspecified: ServicesController static constructor
+ApplicationBase = 'C:\OMS\APL\OMSService\'
+ApplicationName = 'OMSService.exe'
+ConfigurationFile = 'C:\OMS\APL\OMSService\OMSService.exe.config'
+CallingAssembly = [FullName = 'Telco.EnterpriseLibrary.ServiceModel, Version=2.0.3912.25166, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\Telco.EnterpriseLibrary.ServiceModel.dll']
+EntryAssembly = [FullName = 'OMSService, Version=1.9.13.0, Culture=neutral, PublicKeyToken=null', Location='C:\OMS\APL\OMSService\OMSService.exe']
+
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 33 A2 BF 02 00 1F 0C 01 07 02 01 43 00 Fail
+
+
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 33 A2 BF 02 00 1F 0C 01 07 02 01 43 00 Fail
+
+
+
+
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 33 A2 BF 02 00 1F 0C 01 07 02 01 43 00 Fail
+
+
+
+
+
+
+
+
+
+
+
+
+2010-09-20T17:12:46.8892500+02:00 MsgLog OUT: 23-14: BD 33 A2 BF 02 00 1F 0C 01 07 02 01 43 00 Fail
+
